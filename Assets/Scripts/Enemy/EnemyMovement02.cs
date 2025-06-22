@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EnemyMovement02 : MonoBehaviour
 {
@@ -13,8 +13,8 @@ public class EnemyMovement02 : MonoBehaviour
     [Header("Avoidance Settings")]
     public float avoidDistance = 5f;
     public float avoidanceStrength = 3f;
-    public float raySpreadAngle = 30f;  // Spread angle between outer rays
-    public int rayCount = 3;            // Should be odd (e.g. 3, 5, 7)
+    public float raySpreadAngle = 30f;
+    public int rayCount = 3;
     public LayerMask obstacleLayer;
 
     private Rigidbody2D rb;
@@ -35,7 +35,17 @@ public class EnemyMovement02 : MonoBehaviour
 
         if (isTracking)
         {
-            Vector2 direction = (Vector2)(target.position - transform.position);
+            // 🔮 Predict future position
+            Vector2 targetPos = target.position;
+            Vector2 targetVelocity = Vector2.zero;
+            Rigidbody2D targetRb = target.GetComponent<Rigidbody2D>();
+            if (targetRb != null)
+                targetVelocity = targetRb.linearVelocity;
+
+            float estimatedTime = distance / Mathf.Max(thrust + 1f, 1f);
+            Vector2 predictedPosition = targetPos + targetVelocity * estimatedTime;
+            Vector2 direction = predictedPosition - (Vector2)transform.position;
+
             float targetAngle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
             Quaternion targetRotation = Quaternion.Euler(0, 0, targetAngle - 90);
 

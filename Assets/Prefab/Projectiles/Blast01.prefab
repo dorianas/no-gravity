@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 7766557998343389112}
   - component: {fileID: 6457246173868172426}
   - component: {fileID: 5553564878433897456}
+  - component: {fileID: 5542373829263674391}
   m_Layer: 0
   m_Name: Blast01
   m_TagString: Untagged
@@ -183,3 +184,19 @@ MonoBehaviour:
   - Planet
   - Wall
   - Ship
+--- !u!114 &5542373829263674391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3302247060293422314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3580f02595af8e49a6322a0393a91ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xMin: -20
+  xMax: 20
+  yMin: -20
+  yMax: 20

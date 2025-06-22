@@ -1454,8 +1454,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   acceleration: 0.8
-  maxSpeed: 5
-  rotationSpeed: 200
+  maxSpeed: 3.5
+  rotationSpeed: 190
   decelerationRate: 1
   redDotPrefab: {fileID: 5875769200174929359, guid: b32713b4662b26342b58cb5f3b1ff760, type: 3}
   dotSpawnPoint: {fileID: 1054367564}
@@ -2860,7 +2860,7 @@ MonoBehaviour:
   blastPrefab: {fileID: 3302247060293422314, guid: 644ad076fbb5e30469c7a4c3c5b1f02e, type: 3}
   blasterSpawnPoint: {fileID: 3396557986036599412}
   blastSpeed: 5
-  fireRate: 0.6
+  fireRate: 0.3
   shootingRadius: 10
   redDotPrefab: {fileID: 5875769200174929359, guid: b32713b4662b26342b58cb5f3b1ff760, type: 3}
   dotSpawnPoint: {fileID: 3738106598736177913}
@@ -2880,8 +2880,8 @@ MonoBehaviour:
   rocketPrefab: {fileID: 2423943354888987769, guid: 2c74fa8423ec2be478a8fe97386ed5c0, type: 3}
   rocketFirePoint1: {fileID: 4311762756880147134}
   rocketFirePoint2: {fileID: 1779078894900707344}
-  rocketSpeed: 6
-  rocketFireRate: 0.8
+  rocketSpeed: 7
+  rocketFireRate: 0.1
   shootingRadius: 15
 --- !u!61 &1563776250229507887
 BoxCollider2D:
@@ -3161,7 +3161,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 150
   deathEffectPrefab: {fileID: 4861819540214371093, guid: d833eb1b25a88fe4dbe42b507230e3d3, type: 3}
-  respawnTime: 4
+  respawnTime: 5
   rb: {fileID: 0}
 --- !u!114 &7929728709898953767
 MonoBehaviour:
@@ -3201,8 +3201,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1120537162}
-  acceleration: 1
-  maxSpeed: 3
+  acceleration: 0.6
+  maxSpeed: 2.8
   rotationSpeed: 180
   decelerationRate: 1
   trackingRadius: 50

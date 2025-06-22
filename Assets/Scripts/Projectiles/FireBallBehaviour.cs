@@ -9,7 +9,7 @@ public class FireBallBehaviour : MonoBehaviour
     [SerializeField] private string[] enemyTags = { "Enemy01", "Meteorite", "Planet", "Asteroid", "Wall", "Ship" };
 
     // List the component types that can take damage
-    private Type[] damageableTypes = { typeof(Enemy01), typeof(MeteoriteBehaviour) };
+    private Type[] damageableTypes = { typeof(Enemy01), typeof(MeteoriteBehaviour), typeof(EnemyCrew01) };
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -18,28 +18,9 @@ public class FireBallBehaviour : MonoBehaviour
             Instantiate(impactEffectPrefab, transform.position, Quaternion.identity);
         }
 
-        foreach (string tag in enemyTags)
+        if (collision.gameObject.TryGetComponent(out IDamageable damageable))
         {
-            if (collision.gameObject.CompareTag(tag))
-            {
-                foreach (Type type in damageableTypes)
-                {
-                    var component = collision.gameObject.GetComponent(type);
-                    if (component != null)
-                    {
-                        // Use reflection to call the TakeDamage method
-                        var method = type.GetMethod("TakeDamage");
-                        if (method != null)
-                        {
-                            method.Invoke(component, new object[] { damage });
-                        }
-
-                        break; // Stop after the first valid component
-                    }
-                }
-
-                break; // Stop after tag match
-            }
+            damageable.TakeDamage(damage);
         }
 
         Destroy(gameObject);

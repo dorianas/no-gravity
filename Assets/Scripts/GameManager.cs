@@ -3,16 +3,16 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance; // Singleton instance
+    public static GameManager instance;
 
     void Awake()
     {
-        instance = this; // Assign global instance
+        instance = this;
     }
 
     public void RespawnEnemy(GameObject enemyPrefab, Vector2 spawnPosition, float delay)
     {
-        Debug.Log("Scheduling Enemy01 respawn...");
+        Debug.Log("Scheduling enemy respawn...");
         StartCoroutine(RespawnCoroutine(enemyPrefab, spawnPosition, delay));
     }
 
@@ -22,17 +22,28 @@ public class GameManager : MonoBehaviour
 
         if (enemyPrefab != null)
         {
-            enemyPrefab.SetActive(true); // Reactivate enemy
-            Enemy01 enemyScript = enemyPrefab.GetComponent<Enemy01>();
-            if (enemyScript != null)
+            enemyPrefab.transform.position = spawnPosition;
+            enemyPrefab.SetActive(true);
+
+            // Check for crew-based enemy
+            var crewEnemy = enemyPrefab.GetComponent<EnemyCrew01>();
+            if (crewEnemy != null)
             {
-                enemyScript.health = 100f; // Reset health
+                crewEnemy.ResetCrew();
             }
-            Debug.Log("Enemy01 respawned successfully!");
+
+            // (Optional) Still support older Enemy01-style health
+            var basicEnemy = enemyPrefab.GetComponent<Enemy01>();
+            if (basicEnemy != null)
+            {
+                basicEnemy.health = 100f; // or whatever default you need
+            }
+
+            Debug.Log("Enemy respawned and reset!");
         }
         else
         {
-            Debug.LogError("Error: Enemy01 reference missing in GameManager!");
+            Debug.LogError("Error: Enemy reference missing in GameManager!");
         }
     }
 }

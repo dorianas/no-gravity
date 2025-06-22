@@ -176,7 +176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0a54b3a5b93bf24ab1d6648fae7e028, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damage: 10
+  damage: 6
   impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
   enemyTags:
   - Enemy01

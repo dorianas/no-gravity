@@ -1,0 +1,28 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Auto-generated VS/JetBrains files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+
+# Unity cache & system files
+*.apk
+*.aab
+*.unitypackage
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: bfe3b593732864f4b95768f076d3371c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5563158936652862471
+    second: Planet3316565201_0
+  - first:
+      213: -3695522086191695745
+    second: Planet3316565201_1
+  - first:
+      213: 4958774167218595620
+    second: Planet3316565201_2
+  - first:
+      213: 891369730171251487
+    second: Planet3316565201_3
+  - first:
+      213: 9043651798564291702
+    second: Planet3316565201_4
+  - first:
+      213: 4575270504780665676
+    second: Planet3316565201_5
+  - first:
+      213: -3123811831004131957
+    second: Planet3316565201_6
+  - first:
+      213: -7037737243707077225
+    second: Planet3316565201_7
+  - first:
+      213: 2788872239543672885
+    second: Planet3316565201_8
+  - first:
+      213: -7851006050248224566
+    second: Planet3316565201_9
+  - first:
+      213: 5178428876502705303
+    second: Planet3316565201_10
+  - first:
+      213: -8306094682245877519
+    second: Planet3316565201_11
+  - first:
+      213: -1475285167999028708
+    second: Planet3316565201_12
+  - first:
+      213: 7471825791416569306
+    second: Planet3316565201_13
+  - first:
+      213: -1554906727906146421
+    second: Planet3316565201_14
+  - first:
+      213: 8666971223286018426
+    second: Planet3316565201_15
+  - first:
+      213: 4266628082054342770
+    second: Planet3316565201_16
+  - first:
+      213: 8362882144472122373
+    second: Planet3316565201_17
+  - first:
+      213: -1215330549390209622
+    second: Planet3316565201_18
+  - first:
+      213: -3185856463660834185
+    second: Planet3316565201_19
+  - first:
+      213: 3753808594927684348
+    second: Planet3316565201_20
+  - first:
+      213: -8527433828835329171
+    second: Planet3316565201_21
+  - first:
+      213: -426217676115632113
+    second: Planet3316565201_22
+  - first:
+      213: 7085319949528476387
+    second: Planet3316565201_23
+  - first:
+      213: 507145979861710592
+    second: Planet3316565201_24
+  - first:
+      213: 8240947896605329691
+    second: Planet3316565201_25
+  - first:
+      213: 4866033197333939082
+    second: Planet3316565201_26
+  - first:
+      213: 2619456801589820318
+    second: Planet3316565201_27
+  - first:
+      213: 3976979598464874793
+    second: Planet3316565201_28
+  - first:
+      213: -8858870755304341422
+    second: Planet3316565201_29
+  - first:
+      213: 2884486384715164393
+    second: Planet3316565201_30
+  - first:
+      213: 6866036823616389874
+    second: Planet3316565201_31
+  - first:
+      213: -1944383482516170903
+    second: Planet3316565201_32
+  - first:
+      213: 2020895242509178931
+    second: Planet3316565201_33
+  - first:
+      213: -5508849050140239855
+    second: Planet3316565201_34
+  - first:
+      213: -5742385698249192371
+    second: Planet3316565201_35
+  - first:
+      213: -105988996375158568
+    second: Planet3316565201_36
+  - first:
+      213: -2416323947637390853
+    second: Planet3316565201_37
+  - first:
+      213: -4763934936173617523
+    second: Planet3316565201_38
+  - first:
+      213: -6728906540833775100
+    second: Planet3316565201_39
+  - first:
+      213: 6886316932063969790
+    second: Planet3316565201_40
+  - first:
+      213: -2656455729067327404
+    second: Planet3316565201_41
+  - first:
+      213: -7015157064164833534
+    second: Planet3316565201_42
+  - first:
+      213: -2326883483147850368
+    second: Planet3316565201_43
+  - first:
+      213: -7324022483517603885
+    second: Planet3316565201_44
+  - first:
+      213: -6583811809403383888
+    second: Planet3316565201_45
+  - first:
+      213: 6850627860140925782
+    second: Planet3316565201_46
+  - first:
+      213: 5363024151245945775
+    second: Planet3316565201_47
+  - first:
+      213: -7732134316247101811
+    second: Planet3316565201_48
+  - first:
+      213: -5414536889629312317
+    second: Planet3316565201_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Planet3316565201_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704db38f39f443d40800000000000000
+      internalID: 5563158936652862471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78fee80e3ed6bcc0800000000000000
+      internalID: -3695522086191695745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427a27615da11d440800000000000000
+      internalID: 4958774167218595620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_3
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ba4620c08ce5c00800000000000000
+      internalID: 891369730171251487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6744fbd3561818d70800000000000000
+      internalID: 9043651798564291702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_5
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4316c48840ae7f30800000000000000
+      internalID: 4575270504780665676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_6
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d06dbb0bdf5a4d0800000000000000
+      internalID: -3123811831004131957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_7
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8d4ea34fe45e90800000000000000
+      internalID: -7037737243707077225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_8
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e2f9968014b620800000000000000
+      internalID: 2788872239543672885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_9
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0138df79f9b0390800000000000000
+      internalID: -7851006050248224566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_10
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794a19e60a97dd740800000000000000
+      internalID: 5178428876502705303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_11
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f039f1e4e2dabc80800000000000000
+      internalID: -8306094682245877519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_12
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12f303c4fbb68be0800000000000000
+      internalID: -1475285167999028708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_13
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8cf848f141b760800000000000000
+      internalID: 7471825791416569306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_14
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b870a48b19cdb6ae0800000000000000
+      internalID: -1554906727906146421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_15
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71fe727864474870800000000000000
+      internalID: 8666971223286018426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_16
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2782e8392ab163b30800000000000000
+      internalID: 4266628082054342770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_17
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c7bf700dee0470800000000000000
+      internalID: 8362882144472122373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_18
+      rect:
+        serializedVersion: 2
+        x: 5495
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8aeeed47422fe0800000000000000
+      internalID: -1215330549390209622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_19
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7722d1afc6099c3d0800000000000000
+      internalID: -3185856463660834185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_20
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa097f4705381430800000000000000
+      internalID: 3753808594927684348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_21
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bfe9aec1878a980800000000000000
+      internalID: -8527433828835329171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_22
+      rect:
+        serializedVersion: 2
+        x: 6715
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00a2222845c51af0800000000000000
+      internalID: -426217676115632113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_23
+      rect:
+        serializedVersion: 2
+        x: 7020
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea22a754fc145260800000000000000
+      internalID: 7085319949528476387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_24
+      rect:
+        serializedVersion: 2
+        x: 7325
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007bceae49eb90700800000000000000
+      internalID: 507145979861710592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_25
+      rect:
+        serializedVersion: 2
+        x: 7630
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c9a5137abd5270800000000000000
+      internalID: 8240947896605329691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_26
+      rect:
+        serializedVersion: 2
+        x: 7935
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a830950696f978340800000000000000
+      internalID: 4866033197333939082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_27
+      rect:
+        serializedVersion: 2
+        x: 8240
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bfd33251e2a5420800000000000000
+      internalID: 2619456801589820318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_28
+      rect:
+        serializedVersion: 2
+        x: 8545
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9297975bfd1113730800000000000000
+      internalID: 3976979598464874793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_29
+      rect:
+        serializedVersion: 2
+        x: 8850
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2500dfefbf7fe0580800000000000000
+      internalID: -8858870755304341422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_30
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae5609511c70820800000000000000
+      internalID: 2884486384715164393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_31
+      rect:
+        serializedVersion: 2
+        x: 9460
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2086efc10194f50800000000000000
+      internalID: 6866036823616389874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_32
+      rect:
+        serializedVersion: 2
+        x: 9765
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9679c7146892405e0800000000000000
+      internalID: -1944383482516170903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_33
+      rect:
+        serializedVersion: 2
+        x: 10070
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33859021489ab0c10800000000000000
+      internalID: 2020895242509178931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_34
+      rect:
+        serializedVersion: 2
+        x: 10375
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118942dd9f2ac83b0800000000000000
+      internalID: -5508849050140239855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_35
+      rect:
+        serializedVersion: 2
+        x: 10680
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc294c1a2fe40b0800000000000000
+      internalID: -5742385698249192371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_36
+      rect:
+        serializedVersion: 2
+        x: 10985
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d065f0c193778ef0800000000000000
+      internalID: -105988996375158568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_37
+      rect:
+        serializedVersion: 2
+        x: 11290
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1cdcefb2e777ed0800000000000000
+      internalID: -2416323947637390853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_38
+      rect:
+        serializedVersion: 2
+        x: 11595
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e5c4c7a6a13edb0800000000000000
+      internalID: -4763934936173617523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_39
+      rect:
+        serializedVersion: 2
+        x: 11900
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ecc2072f1e92a0800000000000000
+      internalID: -6728906540833775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_40
+      rect:
+        serializedVersion: 2
+        x: 12205
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef14e62b3cc119f50800000000000000
+      internalID: 6886316932063969790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_41
+      rect:
+        serializedVersion: 2
+        x: 12510
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4500463c69f522bd0800000000000000
+      internalID: -2656455729067327404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_42
+      rect:
+        serializedVersion: 2
+        x: 12815
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20702ea61d725ae90800000000000000
+      internalID: -7015157064164833534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_43
+      rect:
+        serializedVersion: 2
+        x: 13120
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08daf39eccf35bfd0800000000000000
+      internalID: -2326883483147850368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_44
+      rect:
+        serializedVersion: 2
+        x: 13425
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df75f60b58db5a90800000000000000
+      internalID: -7324022483517603885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_45
+      rect:
+        serializedVersion: 2
+        x: 13730
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf4d78ba0a91a4a0800000000000000
+      internalID: -6583811809403383888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_46
+      rect:
+        serializedVersion: 2
+        x: 14035
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653281c1eb1521f50800000000000000
+      internalID: 6850627860140925782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_47
+      rect:
+        serializedVersion: 2
+        x: 14340
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabfad01d0a4d6a40800000000000000
+      internalID: 5363024151245945775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_48
+      rect:
+        serializedVersion: 2
+        x: 14645
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ecb745ec0f1b490800000000000000
+      internalID: -7732134316247101811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Planet3316565201_49
+      rect:
+        serializedVersion: 2
+        x: 14950
+        y: 4
+        width: 301
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca7566e263bbd4b0800000000000000
+      internalID: -5414536889629312317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Planet3316565201_0: 5563158936652862471
+      Planet3316565201_1: -3695522086191695745
+      Planet3316565201_10: 5178428876502705303
+      Planet3316565201_11: -8306094682245877519
+      Planet3316565201_12: -1475285167999028708
+      Planet3316565201_13: 7471825791416569306
+      Planet3316565201_14: -1554906727906146421
+      Planet3316565201_15: 8666971223286018426
+      Planet3316565201_16: 4266628082054342770
+      Planet3316565201_17: 8362882144472122373
+      Planet3316565201_18: -1215330549390209622
+      Planet3316565201_19: -3185856463660834185
+      Planet3316565201_2: 4958774167218595620
+      Planet3316565201_20: 3753808594927684348
+      Planet3316565201_21: -8527433828835329171
+      Planet3316565201_22: -426217676115632113
+      Planet3316565201_23: 7085319949528476387
+      Planet3316565201_24: 507145979861710592
+      Planet3316565201_25: 8240947896605329691
+      Planet3316565201_26: 4866033197333939082
+      Planet3316565201_27: 2619456801589820318
+      Planet3316565201_28: 3976979598464874793
+      Planet3316565201_29: -8858870755304341422
+      Planet3316565201_3: 891369730171251487
+      Planet3316565201_30: 2884486384715164393
+      Planet3316565201_31: 6866036823616389874
+      Planet3316565201_32: -1944383482516170903
+      Planet3316565201_33: 2020895242509178931
+      Planet3316565201_34: -5508849050140239855
+      Planet3316565201_35: -5742385698249192371
+      Planet3316565201_36: -105988996375158568
+      Planet3316565201_37: -2416323947637390853
+      Planet3316565201_38: -4763934936173617523
+      Planet3316565201_39: -6728906540833775100
+      Planet3316565201_4: 9043651798564291702
+      Planet3316565201_40: 6886316932063969790
+      Planet3316565201_41: -2656455729067327404
+      Planet3316565201_42: -7015157064164833534
+      Planet3316565201_43: -2326883483147850368
+      Planet3316565201_44: -7324022483517603885
+      Planet3316565201_45: -6583811809403383888
+      Planet3316565201_46: 6850627860140925782
+      Planet3316565201_47: 5363024151245945775
+      Planet3316565201_48: -7732134316247101811
+      Planet3316565201_49: -5414536889629312317
+      Planet3316565201_5: 4575270504780665676
+      Planet3316565201_6: -3123811831004131957
+      Planet3316565201_7: -7037737243707077225
+      Planet3316565201_8: 2788872239543672885
+      Planet3316565201_9: -7851006050248224566
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

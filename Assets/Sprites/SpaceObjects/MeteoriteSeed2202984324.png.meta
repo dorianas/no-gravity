@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 6e218436fe6d908408ffcd875961d2e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7045911928518272667
+    second: MeteoriteSeed2202984324_0
+  - first:
+      213: -2377565627966184161
+    second: MeteoriteSeed2202984324_1
+  - first:
+      213: 5420359155531018606
+    second: MeteoriteSeed2202984324_2
+  - first:
+      213: 8224256637342017204
+    second: MeteoriteSeed2202984324_3
+  - first:
+      213: -7814617363617447232
+    second: MeteoriteSeed2202984324_4
+  - first:
+      213: -8723081017555770753
+    second: MeteoriteSeed2202984324_5
+  - first:
+      213: -5335682817823706260
+    second: MeteoriteSeed2202984324_6
+  - first:
+      213: -788429396156231690
+    second: MeteoriteSeed2202984324_7
+  - first:
+      213: -2366802588933921649
+    second: MeteoriteSeed2202984324_8
+  - first:
+      213: 7201183285106830659
+    second: MeteoriteSeed2202984324_9
+  - first:
+      213: -4890256427709449700
+    second: MeteoriteSeed2202984324_10
+  - first:
+      213: -1722174935648776167
+    second: MeteoriteSeed2202984324_11
+  - first:
+      213: 5589922633502511932
+    second: MeteoriteSeed2202984324_12
+  - first:
+      213: -4368101083840096893
+    second: MeteoriteSeed2202984324_13
+  - first:
+      213: 8935884607677438269
+    second: MeteoriteSeed2202984324_14
+  - first:
+      213: -6631407019393780409
+    second: MeteoriteSeed2202984324_15
+  - first:
+      213: 1601472644283928887
+    second: MeteoriteSeed2202984324_16
+  - first:
+      213: 7368640525808632727
+    second: MeteoriteSeed2202984324_17
+  - first:
+      213: -2485341171581532205
+    second: MeteoriteSeed2202984324_18
+  - first:
+      213: -1992168348255333351
+    second: MeteoriteSeed2202984324_19
+  - first:
+      213: -5446444085761109912
+    second: MeteoriteSeed2202984324_20
+  - first:
+      213: 5582510987681103347
+    second: MeteoriteSeed2202984324_21
+  - first:
+      213: 3666898985192166270
+    second: MeteoriteSeed2202984324_22
+  - first:
+      213: 2195815579223707388
+    second: MeteoriteSeed2202984324_23
+  - first:
+      213: 3539847243351153046
+    second: MeteoriteSeed2202984324_24
+  - first:
+      213: 5547632920789801004
+    second: MeteoriteSeed2202984324_25
+  - first:
+      213: -8414222554021211064
+    second: MeteoriteSeed2202984324_26
+  - first:
+      213: 7132740814019109693
+    second: MeteoriteSeed2202984324_27
+  - first:
+      213: -4833952659379161877
+    second: MeteoriteSeed2202984324_28
+  - first:
+      213: 356986273327386452
+    second: MeteoriteSeed2202984324_29
+  - first:
+      213: 1217292698470982656
+    second: MeteoriteSeed2202984324_30
+  - first:
+      213: -1140948088961666780
+    second: MeteoriteSeed2202984324_31
+  - first:
+      213: 7842812362537198067
+    second: MeteoriteSeed2202984324_32
+  - first:
+      213: 394943047984976998
+    second: MeteoriteSeed2202984324_33
+  - first:
+      213: 5317550614258638955
+    second: MeteoriteSeed2202984324_34
+  - first:
+      213: -484049331505824080
+    second: MeteoriteSeed2202984324_35
+  - first:
+      213: 6640830633422510920
+    second: MeteoriteSeed2202984324_36
+  - first:
+      213: 4878159693997451954
+    second: MeteoriteSeed2202984324_37
+  - first:
+      213: -8641901549121966490
+    second: MeteoriteSeed2202984324_38
+  - first:
+      213: -1602313429468879677
+    second: MeteoriteSeed2202984324_39
+  - first:
+      213: 8654962381086477537
+    second: MeteoriteSeed2202984324_40
+  - first:
+      213: -2365506181097648495
+    second: MeteoriteSeed2202984324_41
+  - first:
+      213: -4729855660392040630
+    second: MeteoriteSeed2202984324_42
+  - first:
+      213: 2539379605095494092
+    second: MeteoriteSeed2202984324_43
+  - first:
+      213: 440333331143797858
+    second: MeteoriteSeed2202984324_44
+  - first:
+      213: -5009117179957810490
+    second: MeteoriteSeed2202984324_45
+  - first:
+      213: -6331084912767386771
+    second: MeteoriteSeed2202984324_46
+  - first:
+      213: -7602763823546757275
+    second: MeteoriteSeed2202984324_47
+  - first:
+      213: 4628678113747020262
+    second: MeteoriteSeed2202984324_48
+  - first:
+      213: 6605682812591146192
+    second: MeteoriteSeed2202984324_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 35
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96e402719b18c160800000000000000
+      internalID: 7045911928518272667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15a5e288a0310fd0800000000000000
+      internalID: -2377565627966184161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 34
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6176740febf83b40800000000000000
+      internalID: 5420359155531018606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 33
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b66b6276dd622270800000000000000
+      internalID: 8224256637342017204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 31
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c28bf159e6ec8390800000000000000
+      internalID: -7814617363617447232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 31
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72a2a9080461f680800000000000000
+      internalID: -8723081017555770753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 30
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6376713fb8d3f5b0800000000000000
+      internalID: -5335682817823706260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 30
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc1a734afee05f0800000000000000
+      internalID: -788429396156231690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 30
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f846e11d59d672fd0800000000000000
+      internalID: -2366802588933921649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_9
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 30
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34de5475b0ebfe360800000000000000
+      internalID: 7201183285106830659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_10
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 30
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1abecd40b1522cb0800000000000000
+      internalID: -4890256427709449700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_11
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 31
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d29f350b9918e0800000000000000
+      internalID: -1722174935648776167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_12
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 31
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3355dbb405639d40800000000000000
+      internalID: 5589922633502511932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_13
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 32
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38556ba15336163c0800000000000000
+      internalID: -4368101083840096893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_14
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 32
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399e72d4b3a20c70800000000000000
+      internalID: 8935884607677438269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_15
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 30
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457008537288f3a0800000000000000
+      internalID: -6631407019393780409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_16
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 29
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7319c0092e2993610800000000000000
+      internalID: 1601472644283928887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_17
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 29
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930f5a748ba24660800000000000000
+      internalID: 7368640525808632727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_18
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 28
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ca325f5b428dd0800000000000000
+      internalID: -2485341171581532205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_19
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 28
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914d67531756a54e0800000000000000
+      internalID: -1992168348255333351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_20
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 28
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8609e23e5f75a64b0800000000000000
+      internalID: -5446444085761109912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_21
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 29
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd72777a20197d40800000000000000
+      internalID: 5582510987681103347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_22
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 29
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e739e9fe23173e230800000000000000
+      internalID: 3666898985192166270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_23
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 28
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec5e7a2aa197e10800000000000000
+      internalID: 2195815579223707388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_24
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 27
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699571b1050102130800000000000000
+      internalID: 3539847243351153046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_25
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 26
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2850f3bfb62dfc40800000000000000
+      internalID: 5547632920789801004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_26
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 25
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445c76ea2daa3b80800000000000000
+      internalID: -8414222554021211064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_27
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 25
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d332a8ebaf59cf260800000000000000
+      internalID: 7132740814019109693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_28
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 25
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be476aceaa95aecb0800000000000000
+      internalID: -4833952659379161877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_29
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 26
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f8e5bcf1544f400800000000000000
+      internalID: 356986273327386452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_30
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 27
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042a008241b4e010800000000000000
+      internalID: 1217292698470982656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_31
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 28
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421774212c98a20f0800000000000000
+      internalID: -1140948088961666780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_32
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 28
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1621d6a4447dc60800000000000000
+      internalID: 7842812362537198067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_33
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 27
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66497a11c9e1b7500800000000000000
+      internalID: 394943047984976998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_34
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 25
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60eb0e2c1cbbc940800000000000000
+      internalID: 5317550614258638955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_35
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 24
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be74d592bf4849f0800000000000000
+      internalID: -484049331505824080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_36
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 24
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5ea6c648f82c50800000000000000
+      internalID: 6640830633422510920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_37
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 23
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baa8566564b2b340800000000000000
+      internalID: 4878159693997451954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_38
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 23
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eeface35cc11880800000000000000
+      internalID: -8641901549121966490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_39
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 23
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c46ba1ec6073c9e0800000000000000
+      internalID: -1602313429468879677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_40
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 23
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec470dfd6a9c1870800000000000000
+      internalID: 8654962381086477537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_41
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 23
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0fa949a80c2fd0800000000000000
+      internalID: -2365506181097648495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_42
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 23
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a473673365d2c5eb0800000000000000
+      internalID: -4729855660392040630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_43
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 24
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1b69feb40bd3320800000000000000
+      internalID: 2539379605095494092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_44
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 25
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c2799e4d06c1600800000000000000
+      internalID: 440333331143797858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_45
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 27
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caee4ad67a0c7ab0800000000000000
+      internalID: -5009117179957810490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_46
+      rect:
+        serializedVersion: 2
+        x: 4769
+        y: 28
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b3aabb0d77328a0800000000000000
+      internalID: -6331084912767386771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_47
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 30
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f0e4a659e8d7690800000000000000
+      internalID: -7602763823546757275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_48
+      rect:
+        serializedVersion: 2
+        x: 4975
+        y: 33
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9248d783e5c3040800000000000000
+      internalID: 4628678113747020262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeteoriteSeed2202984324_49
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 34
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4066705891cab50800000000000000
+      internalID: 6605682812591146192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MeteoriteSeed2202984324_0: 7045911928518272667
+      MeteoriteSeed2202984324_1: -2377565627966184161
+      MeteoriteSeed2202984324_10: -4890256427709449700
+      MeteoriteSeed2202984324_11: -1722174935648776167
+      MeteoriteSeed2202984324_12: 5589922633502511932
+      MeteoriteSeed2202984324_13: -4368101083840096893
+      MeteoriteSeed2202984324_14: 8935884607677438269
+      MeteoriteSeed2202984324_15: -6631407019393780409
+      MeteoriteSeed2202984324_16: 1601472644283928887
+      MeteoriteSeed2202984324_17: 7368640525808632727
+      MeteoriteSeed2202984324_18: -2485341171581532205
+      MeteoriteSeed2202984324_19: -1992168348255333351
+      MeteoriteSeed2202984324_2: 5420359155531018606
+      MeteoriteSeed2202984324_20: -5446444085761109912
+      MeteoriteSeed2202984324_21: 5582510987681103347
+      MeteoriteSeed2202984324_22: 3666898985192166270
+      MeteoriteSeed2202984324_23: 2195815579223707388
+      MeteoriteSeed2202984324_24: 3539847243351153046
+      MeteoriteSeed2202984324_25: 5547632920789801004
+      MeteoriteSeed2202984324_26: -8414222554021211064
+      MeteoriteSeed2202984324_27: 7132740814019109693
+      MeteoriteSeed2202984324_28: -4833952659379161877
+      MeteoriteSeed2202984324_29: 356986273327386452
+      MeteoriteSeed2202984324_3: 8224256637342017204
+      MeteoriteSeed2202984324_30: 1217292698470982656
+      MeteoriteSeed2202984324_31: -1140948088961666780
+      MeteoriteSeed2202984324_32: 7842812362537198067
+      MeteoriteSeed2202984324_33: 394943047984976998
+      MeteoriteSeed2202984324_34: 5317550614258638955
+      MeteoriteSeed2202984324_35: -484049331505824080
+      MeteoriteSeed2202984324_36: 6640830633422510920
+      MeteoriteSeed2202984324_37: 4878159693997451954
+      MeteoriteSeed2202984324_38: -8641901549121966490
+      MeteoriteSeed2202984324_39: -1602313429468879677
+      MeteoriteSeed2202984324_4: -7814617363617447232
+      MeteoriteSeed2202984324_40: 8654962381086477537
+      MeteoriteSeed2202984324_41: -2365506181097648495
+      MeteoriteSeed2202984324_42: -4729855660392040630
+      MeteoriteSeed2202984324_43: 2539379605095494092
+      MeteoriteSeed2202984324_44: 440333331143797858
+      MeteoriteSeed2202984324_45: -5009117179957810490
+      MeteoriteSeed2202984324_46: -6331084912767386771
+      MeteoriteSeed2202984324_47: -7602763823546757275
+      MeteoriteSeed2202984324_48: 4628678113747020262
+      MeteoriteSeed2202984324_49: 6605682812591146192
+      MeteoriteSeed2202984324_5: -8723081017555770753
+      MeteoriteSeed2202984324_6: -5335682817823706260
+      MeteoriteSeed2202984324_7: -788429396156231690
+      MeteoriteSeed2202984324_8: -2366802588933921649
+      MeteoriteSeed2202984324_9: 7201183285106830659
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

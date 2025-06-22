@@ -13,7 +13,12 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
 
     [Header("References")]
     public Rigidbody2D rb;
-    public Image crewFillHUD; // Drag your green UI fill bar here in Inspector
+    public Image crewFillHUD; // Linear bar (optional)
+
+    [Header("Square-Based UI")]
+    public Transform crewSquaresContainer; // Grid Layout Group with 2 rows
+    public GameObject crewSquarePrefab;    // A tiny green square prefab
+    private Image[] crewSquares;
 
     void Start()
     {
@@ -21,6 +26,18 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
 
         if (rb == null)
             rb = GetComponent<Rigidbody2D>();
+
+        // Create square indicators
+        if (crewSquaresContainer != null && crewSquarePrefab != null)
+        {
+            crewSquares = new Image[(int)maxCrew];
+
+            for (int i = 0; i < maxCrew; i++)
+            {
+                GameObject square = Instantiate(crewSquarePrefab, crewSquaresContainer);
+                crewSquares[i] = square.GetComponent<Image>();
+            }
+        }
 
         UpdateCrewUI();
     }
@@ -54,5 +71,35 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
     {
         if (crewFillHUD != null)
             crewFillHUD.fillAmount = currentCrew / maxCrew;
+
+        if (crewSquares == null || crewSquares.Length == 0) return;
+
+        // Reset all to gray
+        for (int i = 0; i < crewSquares.Length; i++)
+            crewSquares[i].color = Color.gray;
+
+        int filled = Mathf.FloorToInt(currentCrew);
+
+        int rows = crewSquares.Length / 2; // since we have 2 columns
+        int index = 0;
+
+        for (int row = 0; row < rows; row++)
+        {
+            // Left then right square in this row
+            int leftIndex = row * 2;
+            int rightIndex = row * 2 + 1;
+
+            if (index < filled && leftIndex < crewSquares.Length)
+            {
+                crewSquares[leftIndex].color = Color.green;
+                index++;
+            }
+
+            if (index < filled && rightIndex < crewSquares.Length)
+            {
+                crewSquares[rightIndex].color = Color.green;
+                index++;
+            }
+        }
     }
 }

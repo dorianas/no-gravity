@@ -1,5 +1,5 @@
-using UnityEngine;
-using UnityEngine.UI; // Required for UI elements
+﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerShooting : MonoBehaviour
 {
@@ -20,22 +20,20 @@ public class PlayerShooting : MonoBehaviour
     private float nextBulletFireTime = 0f;
 
     // UI Panel Color Change
-    public Image rocketPanel; // Assign this in Inspector
-    public Image bulletPanel; // Assign this in Inspector
-    public Color shootColor = Color.red; // Color when firing
-    public Color defaultColor = Color.white; // Default panel color
-    public float colorResetTime = 0.5f; // Duration before resetting color
+    public Image rocketPanel;
+    public Image bulletPanel;
+    public Color shootColor = Color.red;
+    public Color defaultColor = Color.white;
+    public float colorResetTime = 0.5f;
 
     void Update()
     {
-        // Fire bullets with SPACE
         if (Input.GetKey(KeyCode.Space) && Time.time >= nextBulletFireTime)
         {
             FireBullet();
             nextBulletFireTime = Time.time + bulletFireRate;
         }
 
-        // Fire rockets with E
         if (Input.GetKey(KeyCode.E) && Time.time >= nextRocketFireTime)
         {
             FireRocket();
@@ -48,18 +46,13 @@ public class PlayerShooting : MonoBehaviour
         GameObject rocket1 = Instantiate(rocketPrefab, rocketFirePoint1.position, rocketFirePoint1.rotation);
         Rigidbody2D rb1 = rocket1.GetComponent<Rigidbody2D>();
         if (rb1 != null)
-        {
             rb1.linearVelocity = rocketFirePoint1.up * rocketSpeed;
-        }
 
         GameObject rocket2 = Instantiate(rocketPrefab, rocketFirePoint2.position, rocketFirePoint2.rotation);
         Rigidbody2D rb2 = rocket2.GetComponent<Rigidbody2D>();
         if (rb2 != null)
-        {
             rb2.linearVelocity = rocketFirePoint2.up * rocketSpeed;
-        }
 
-        // **Change panel color when shooting rockets**
         ChangePanelColor(rocketPanel);
     }
 
@@ -67,10 +60,11 @@ public class PlayerShooting : MonoBehaviour
     {
         GameObject bullet = Instantiate(bulletPrefab, bulletSpawnPoint.position, bulletSpawnPoint.rotation);
         bullet.transform.Rotate(0, 0, 90);
-        Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
-        rb.linearVelocity = bulletSpawnPoint.up * bulletSpeed;
 
-        // **Change panel color when shooting bullets**
+        Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
+        if (rb != null)
+            rb.linearVelocity = bulletSpawnPoint.up * bulletSpeed;
+
         ChangePanelColor(bulletPanel);
     }
 

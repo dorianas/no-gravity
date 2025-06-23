@@ -177,6 +177,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 6
+  fuelCost: 4
   impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
   enemyTags:
   - Enemy01

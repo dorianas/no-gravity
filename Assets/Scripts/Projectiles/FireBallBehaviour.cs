@@ -21,26 +21,22 @@ public class FireBallBehaviour : MonoBehaviour
 
     void Start()
     {
-        owner = GetComponentInParent<EnemyCrew01>();
+//       if (owner == null)
+//       {
+//           Debug.LogWarning("Fireball has no owner assigned!");
+//            Destroy(gameObject);
+//            return;
+//       }
 
-        if (owner != null)
-        {
-            if (owner.currentFuel < fuelCost)
-            {
-                Debug.Log($"{owner.name} cannot fire fireball – insufficient fuel.");
-                Destroy(gameObject);
-                return;
-            }
+//        if (owner.currentFuel < fuelCost)
+//        {
+//            Debug.Log($"{owner.name} cannot fire fireball – insufficient fuel.");
+//            Destroy(gameObject);
+//            return;
+//        }
 
-            owner.currentFuel -= fuelCost;
-            owner.SendMessage("UpdateFuelUI", SendMessageOptions.DontRequireReceiver);
-        }
-        else
-        {
-            Debug.LogWarning("Fireball launched with no EnemyCrew01 owner found.");
-        }
+//        owner.ConsumeFuel(fuelCost);
     }
-
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (impactEffectPrefab != null)
@@ -55,4 +51,9 @@ public class FireBallBehaviour : MonoBehaviour
 
         Destroy(gameObject);
     }
+    public void SetOwner(EnemyCrew01 enemy)
+    {
+        owner = enemy;
+    }
+
 }

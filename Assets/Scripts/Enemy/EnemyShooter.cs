@@ -16,9 +16,6 @@ public class EnemyShooter : MonoBehaviour
     public float spawnInterval = 2f;
     private float lastSpawnTime = 0f;
 
-    [Header("Blast Fuel Cost")]
-    public float fuelCost = 5f;
-
     private Transform player;
     private EnemyCrew01 selfCrew;
 
@@ -54,24 +51,17 @@ public class EnemyShooter : MonoBehaviour
     {
         if (blastPrefab == null || blasterSpawnPoint == null || selfCrew == null) return;
 
-        if (selfCrew.currentFuel < fuelCost)
-        {
-            Debug.Log($"{gameObject.name} tried to fire but is out of fuel!");
-            return;
-        }
+        GameObject blast = Instantiate(blastPrefab, blasterSpawnPoint.position, blasterSpawnPoint.rotation);
 
-        selfCrew.currentFuel -= fuelCost;
-        selfCrew.SendMessage("UpdateFuelUI", SendMessageOptions.DontRequireReceiver);
+        // Assign owner to fireball before Start() logic
+        FireBallBehaviour fireball = blast.GetComponent<FireBallBehaviour>();
+        if (fireball != null)
+            fireball.SetOwner(selfCrew);
 
-        // Spawn blast and temporarily parent to this ship so FireBall can auto-detect EnemyCrew01
-        GameObject blast = Instantiate(blastPrefab, blasterSpawnPoint.position, blasterSpawnPoint.rotation, transform);
-
-        Rigidbody2D rb = blast.GetComponent<Rigidbody2D>();
-        if (rb != null)
-            rb.linearVelocity = blasterSpawnPoint.up * blastSpeed;
-
-        // Optional: Detach blast after assignment if you don’t want to keep it under this object
-        blast.transform.parent = null;
+        // Launch the fireball
+        Rigidbody2D blastRb = blast.GetComponent<Rigidbody2D>();
+        if (blastRb != null)
+            blastRb.linearVelocity = blasterSpawnPoint.up * blastSpeed;
     }
 
     void OnDrawGizmosSelected()

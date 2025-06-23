@@ -6,37 +6,32 @@ public class FireBallBehaviour : MonoBehaviour
     [Header("Damage Settings")]
     public float damage = 10f;
 
-    [Header("Fuel Settings")]
-    public float fuelCost = 4f;
-
     [Header("Visuals")]
     public GameObject impactEffectPrefab;
 
-    private EnemyCrew01 owner;
+    private MonoBehaviour owner;
 
     [SerializeField]
     private string[] enemyTags = { "Enemy01", "Meteorite", "Planet", "Asteroid", "Wall", "Ship" };
 
     private Type[] damageableTypes = { typeof(Enemy01), typeof(MeteoriteBehaviour), typeof(EnemyCrew01) };
 
+    public void SetOwner(MonoBehaviour unit)
+    {
+        owner = unit;
+    }
+
+    public void Initialize()
+    {
+        Debug.Log("[FIREBALL] Initialize() called. Owner = " + owner?.name);
+        // Fuel logic removed—owner handles that before firing
+    }
+
     void Start()
     {
-//       if (owner == null)
-//       {
-//           Debug.LogWarning("Fireball has no owner assigned!");
-//            Destroy(gameObject);
-//            return;
-//       }
-
-//        if (owner.currentFuel < fuelCost)
-//        {
-//            Debug.Log($"{owner.name} cannot fire fireball – insufficient fuel.");
-//            Destroy(gameObject);
-//            return;
-//        }
-
-//        owner.ConsumeFuel(fuelCost);
+        // All logic handled externally
     }
+
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (impactEffectPrefab != null)
@@ -51,9 +46,4 @@ public class FireBallBehaviour : MonoBehaviour
 
         Destroy(gameObject);
     }
-    public void SetOwner(EnemyCrew01 enemy)
-    {
-        owner = enemy;
-    }
-
 }

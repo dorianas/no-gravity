@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody2D))]
-public class RocketBehaviour2 : MonoBehaviour
+public class EnemyRocketBehaviour : MonoBehaviour
 {
     [Header("Movement Settings")]
     [SerializeField] public float speed = 5f;

@@ -53,13 +53,17 @@ public class PlayerCrew : MonoBehaviour, IDamageable
                 fuelSquares[i] = Instantiate(fuelSquarePrefab, fuelSquaresContainer).GetComponent<Image>();
         }
     }
-
     public void ConsumeFuel(float amount)
     {
-        currentFuel = Mathf.Clamp(currentFuel - amount, 0, maxFuel);
+        float before = currentFuel;
+        float after = Mathf.Clamp(currentFuel - amount, 0, maxFuel);
+
+        Debug.Log($"[PLAYER CREW] Consuming fuel: {amount}");
+        Debug.Log($"[PLAYER CREW] Fuel before: {before}, after: {after}");
+
+        currentFuel = after;
         UpdateFuelUI();
     }
-
     public void TakeDamage(float amount)
     {
         currentCrew = Mathf.Clamp(currentCrew - amount, 0, maxCrew);

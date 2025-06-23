@@ -411,7 +411,7 @@ GameObject:
   - component: {fileID: 189112894}
   - component: {fileID: 189112895}
   m_Layer: 5
-  m_Name: CrewSquaresBar
+  m_Name: CrewSquaresBarR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1597,7 +1597,7 @@ GameObject:
   - component: {fileID: 794300555}
   - component: {fileID: 794300556}
   m_Layer: 5
-  m_Name: CrewSquaresBar
+  m_Name: CrewSquaresBarL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2015,7 +2015,7 @@ MonoBehaviour:
   redDotPrefab: {fileID: 5875769200174929359, guid: b32713b4662b26342b58cb5f3b1ff760, type: 3}
   dotSpawnPoint: {fileID: 1054367564}
   spawnInterval: 0.15
-  speedDisplay: {fileID: 1726843546}
+  speedDisplay: {fileID: 0}
 --- !u!212 &1120537165
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2151,15 +2151,18 @@ MonoBehaviour:
   rocketFirePoint2: {fileID: 1179051625}
   rocketSpeed: 6
   rocketFireRate: 0.4
-  bulletPrefab: {fileID: 7218596398381598439, guid: 20f263a71b0fcce4c9aa268c499c5fcb, type: 3}
-  bulletSpawnPoint: {fileID: 385898971}
-  bulletSpeed: 10
-  bulletFireRate: 0.9
-  rocketPanel: {fileID: 486869937}
-  bulletPanel: {fileID: 1734920313}
+  rocketFuelCostPerShot: 1
+  fireballPrefab: {fileID: 7218596398381598439, guid: 20f263a71b0fcce4c9aa268c499c5fcb, type: 3}
+  fireballSpawnPoint: {fileID: 385898971}
+  fireballCooldown: 0.5
+  fireballFuelCost: 6
+  fireballSpeed: 10
+  rocketPanel: {fileID: 1734920313}
+  fireballPanel: {fileID: 486869937}
   shootColor: {r: 1, g: 0, b: 0, a: 1}
   defaultColor: {r: 0.61960787, g: 0.61960787, b: 0.61960787, a: 1}
   colorResetTime: 0.1
+  playerCrew: {fileID: 1120537170}
 --- !u!114 &1120537169
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2191,14 +2194,14 @@ MonoBehaviour:
   maxCrew: 50
   maxFuel: 50
   currentFuel: 50
-  crewBarHUD: {fileID: 0}
-  crewSquaresContainer: {fileID: 0}
-  crewSquarePrefab: {fileID: 0}
-  fuelSquaresContainer: {fileID: 0}
-  fuelSquarePrefab: {fileID: 0}
+  crewBarHUD: {fileID: 4541932677017319270}
+  crewSquaresContainer: {fileID: 794300555}
+  crewSquarePrefab: {fileID: 5475917422135040455, guid: bee27bc12c73fe24ba5a911ca236bc06, type: 3}
+  fuelSquaresContainer: {fileID: 1932854078}
+  fuelSquarePrefab: {fileID: 3771276839022236902, guid: f8c15ee867d016d44b3fa7c56dda4c2c, type: 3}
   crewActiveColor: {r: 0, g: 1, b: 0, a: 1}
   crewInactiveColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  fuelActiveColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  fuelActiveColor: {r: 0.34531865, g: 0.5003329, b: 0.754717, a: 1}
   fuelInactiveColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
 --- !u!1 &1176806493
 GameObject:
@@ -2814,7 +2817,7 @@ GameObject:
   - component: {fileID: 1793837621}
   - component: {fileID: 1793837622}
   m_Layer: 5
-  m_Name: FuelSquaresBar
+  m_Name: FuelSquaresBarR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3008,7 +3011,7 @@ GameObject:
   - component: {fileID: 1932854078}
   - component: {fileID: 1932854079}
   m_Layer: 5
-  m_Name: FuelSquaresBar
+  m_Name: FuelSquaresBarL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3554,6 +3557,7 @@ MonoBehaviour:
   blastSpeed: 5
   fireRate: 0.3
   shootingRadius: 10
+  fireballFuelCost: 4
   redDotPrefab: {fileID: 5875769200174929359, guid: b32713b4662b26342b58cb5f3b1ff760, type: 3}
   dotSpawnPoint: {fileID: 3738106598736177913}
   spawnInterval: 0.15
@@ -3574,6 +3578,7 @@ MonoBehaviour:
   rocketFirePoint2: {fileID: 1779078894900707344}
   rocketSpeed: 6
   rocketFireRate: 0.1
+  rocketFuelCostPerShot: 2
   shootingRadius: 15
 --- !u!61 &1563776250229507887
 BoxCollider2D:
@@ -3987,7 +3992,7 @@ MonoBehaviour:
   deathEffectPrefab: {fileID: 4861819540214371093, guid: d833eb1b25a88fe4dbe42b507230e3d3, type: 3}
   respawnTime: 10
   rb: {fileID: 0}
-  crewFillHUD: {fileID: 4541932677017319270}
+  crewFillHUD: {fileID: 0}
   crewSquaresContainer: {fileID: 189112894}
   crewSquarePrefab: {fileID: 5475917422135040455, guid: bee27bc12c73fe24ba5a911ca236bc06, type: 3}
   fuelSquaresContainer: {fileID: 1793837621}

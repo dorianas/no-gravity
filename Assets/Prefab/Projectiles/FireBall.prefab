@@ -12,8 +12,8 @@ GameObject:
   - component: {fileID: 4260386678561407654}
   - component: {fileID: 9143066184992204076}
   - component: {fileID: 1620125387124250543}
-  - component: {fileID: -6104824400155026381}
   - component: {fileID: -5272542936968097828}
+  - component: {fileID: 6579527119637555640}
   m_Layer: 0
   m_Name: FireBall
   m_TagString: Fireball
@@ -80,12 +80,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2917000182891882972, guid: 66ef0f76eef548b4587b584f68cb9188, type: 3}
+  m_Sprite: {fileID: 8465262457611853380, guid: d0e75fd73e0f1244793d8c9c1dcc67ad, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.34, y: 0.19}
+  m_Size: {x: 1.23, y: 1.27}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -156,34 +156,14 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.34, y: 0.19}
-    newSize: {x: 0.34, y: 0.19}
+    oldSize: {x: 1.23, y: 1.27}
+    newSize: {x: 1.23, y: 1.27}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   m_Size: {x: 0.34, y: 0.19}
   m_EdgeRadius: 0
---- !u!114 &-6104824400155026381
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7218596398381598439}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e0a54b3a5b93bf24ab1d6648fae7e028, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  damage: 6
-  fuelCost: 4
-  impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
-  enemyTags:
-  - Enemy01
-  - Meteorite
-  - Planet
-  - Wall
 --- !u!114 &-5272542936968097828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -200,3 +180,24 @@ MonoBehaviour:
   xMax: 20
   yMin: -20
   yMax: 20
+--- !u!114 &6579527119637555640
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7218596398381598439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a54b3a5b93bf24ab1d6648fae7e028, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 6
+  impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
+  enemyTags:
+  - Enemy01
+  - Meteorite
+  - Planet
+  - Asteroid
+  - Wall
+  - Ship

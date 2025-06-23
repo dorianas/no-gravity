@@ -10,10 +10,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2598039797932646930}
   - component: {fileID: 1079213684862372745}
-  - component: {fileID: 3933759990227696620}
-  - component: {fileID: 6815823972533016978}
   - component: {fileID: 1450368079525919931}
   - component: {fileID: -8610423695481596461}
+  - component: {fileID: 3933759990227696620}
+  - component: {fileID: 6815823972533016978}
   m_Layer: 0
   m_Name: Rocket01
   m_TagString: Untagged
@@ -91,6 +91,39 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1450368079525919931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023193596265455983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a89f980c6d32354aa40952fab9202e2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 6
+  rotateSpeed: 200
+  initialForwardTime: 0.5
+  damage: 1
+  impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
+--- !u!114 &-8610423695481596461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5023193596265455983}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3580f02595af8e49a6322a0393a91ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xMin: -20
+  xMax: 20
+  yMin: -20
+  yMax: 20
 --- !u!61 &3933759990227696620
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -164,36 +197,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1450368079525919931
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5023193596265455983}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2a89f980c6d32354aa40952fab9202e2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 6
-  rotateSpeed: 200
-  initialForwardTime: 0.5
-  damage: 1
-  impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
---- !u!114 &-8610423695481596461
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5023193596265455983}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b3580f02595af8e49a6322a0393a91ce, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  xMin: -20
-  xMax: 20
-  yMin: -20
-  yMax: 20

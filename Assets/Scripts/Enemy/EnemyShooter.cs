@@ -9,6 +9,7 @@ public class EnemyShooter : MonoBehaviour
     private float nextFireTime = 0f;
 
     public float shootingRadius = 10f;
+    public float fireballFuelCost = 3f; // 🔋 Add this!
 
     [Header("Red Dot Trail")]
     public GameObject redDotPrefab;
@@ -51,14 +52,24 @@ public class EnemyShooter : MonoBehaviour
     {
         if (blastPrefab == null || blasterSpawnPoint == null || selfCrew == null) return;
 
+        if (selfCrew.currentFuel < fireballFuelCost)
+        {
+            Debug.Log("[ENEMY SHOOTER] Not enough fuel to launch fireball.");
+            return;
+        }
+
+        selfCrew.ConsumeFuel(fireballFuelCost);
+        Debug.Log("[ENEMY SHOOTER] Fireball fuel consumed: " + fireballFuelCost);
+
         GameObject blast = Instantiate(blastPrefab, blasterSpawnPoint.position, blasterSpawnPoint.rotation);
 
-        // Assign owner to fireball before Start() logic
         FireBallBehaviour fireball = blast.GetComponent<FireBallBehaviour>();
         if (fireball != null)
+        {
             fireball.SetOwner(selfCrew);
+            fireball.Initialize(); // Logging only
+        }
 
-        // Launch the fireball
         Rigidbody2D blastRb = blast.GetComponent<Rigidbody2D>();
         if (blastRb != null)
             blastRb.linearVelocity = blasterSpawnPoint.up * blastSpeed;

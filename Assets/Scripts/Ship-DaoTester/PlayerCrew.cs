@@ -8,8 +8,13 @@ public class PlayerCrew : MonoBehaviour, IDamageable
     private float currentCrew;
 
     [Header("Fuel Settings")]
-    public float maxFuel = 50f;
-    public float currentFuel;
+    public float maxFuel = 100f;
+    public float currentFuel = 50f;
+
+    [Header("Fuel Regeneration")]
+    public float fuelRegenRate = 1f;      // How often to regenerate (seconds per tick)
+    public float fuelRegenAmount = 2f;    // How much fuel to add per tick
+    private float nextFuelTick = 0f;
 
     [Header("UI Settings")]
     public Image crewBarHUD;
@@ -37,6 +42,15 @@ public class PlayerCrew : MonoBehaviour, IDamageable
         UpdateFuelUI();
     }
 
+    void Update()
+    {
+        if (Time.time >= nextFuelTick)
+        {
+            RegenerateFuel();
+            nextFuelTick = Time.time + fuelRegenRate;
+        }
+    }
+
     void GenerateSquares()
     {
         if (crewSquaresContainer != null && crewSquarePrefab != null)
@@ -53,6 +67,7 @@ public class PlayerCrew : MonoBehaviour, IDamageable
                 fuelSquares[i] = Instantiate(fuelSquarePrefab, fuelSquaresContainer).GetComponent<Image>();
         }
     }
+
     public void ConsumeFuel(float amount)
     {
         float before = currentFuel;
@@ -64,6 +79,7 @@ public class PlayerCrew : MonoBehaviour, IDamageable
         currentFuel = after;
         UpdateFuelUI();
     }
+
     public void TakeDamage(float amount)
     {
         currentCrew = Mathf.Clamp(currentCrew - amount, 0, maxCrew);
@@ -87,5 +103,15 @@ public class PlayerCrew : MonoBehaviour, IDamageable
 
         for (int i = 0; i < fuelSquares.Length; i++)
             fuelSquares[i].color = i < currentFuel ? fuelActiveColor : fuelInactiveColor;
+    }
+
+    void RegenerateFuel()
+    {
+        if (currentFuel < maxFuel)
+        {
+            currentFuel = Mathf.Min(currentFuel + fuelRegenAmount, maxFuel);
+            Debug.Log($"[FUEL] Regenerated. Current fuel: {currentFuel}");
+            UpdateFuelUI();
+        }
     }
 }

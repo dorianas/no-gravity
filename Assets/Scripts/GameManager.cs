@@ -25,18 +25,16 @@ public class GameManager : MonoBehaviour
             enemyPrefab.transform.position = spawnPosition;
             enemyPrefab.SetActive(true);
 
-            // Check for crew-based enemy
             var crewEnemy = enemyPrefab.GetComponent<EnemyCrew01>();
             if (crewEnemy != null)
             {
                 crewEnemy.ResetCrew();
             }
 
-            // (Optional) Still support older Enemy01-style health
             var basicEnemy = enemyPrefab.GetComponent<Enemy01>();
             if (basicEnemy != null)
             {
-                basicEnemy.health = 100f; // or whatever default you need
+                basicEnemy.health = 100f;
             }
 
             Debug.Log("Enemy respawned and reset!");
@@ -45,5 +43,15 @@ public class GameManager : MonoBehaviour
         {
             Debug.LogError("Error: Enemy reference missing in GameManager!");
         }
+    }
+
+    public void QuitGame()
+    {
+        Debug.Log("QuitGame called!");
+        Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
     }
 }

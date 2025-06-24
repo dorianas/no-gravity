@@ -195,7 +195,7 @@ MonoBehaviour:
   speed: 6
   rotateSpeed: 200
   initialForwardTime: 0.5
-  damage: 5
+  damage: 1
   impactEffectPrefab: {fileID: 2006285185719935493, guid: 8bf4b32385fb626408f4b187d037fd6e, type: 3}
   trackingTag: Ship
   damageableTags:

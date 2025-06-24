@@ -11,13 +11,18 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
     public float maxFuel = 50f;
     public float currentFuel;
 
+    [Header("Fuel Regeneration")]
+    public float fuelRegenRate = 1f;       // Seconds between ticks
+    public float fuelRegenAmount = 2f;     // Amount per tick
+    private float nextFuelTick = 0f;
+
     [Header("Death & Respawn")]
     public GameObject deathEffectPrefab;
     public float respawnTime = 3f;
 
     [Header("References")]
     public Rigidbody2D rb;
-    public Image crewFillHUD; // Optional linear bar
+    public Image crewFillHUD;
 
     [Header("Square-Based Crew UI")]
     public Transform crewSquaresContainer;
@@ -38,39 +43,46 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
     void Start()
     {
         currentCrew = maxCrew;
+        currentFuel = maxFuel;
+
         if (rb == null)
             rb = GetComponent<Rigidbody2D>();
 
-        // Create crew squares
+        GenerateSquares();
+        UpdateCrewUI();
+        UpdateFuelUI();
+    }
+
+    void Update()
+    {
+        if (Time.time >= nextFuelTick)
+        {
+            RegenerateFuel();
+            nextFuelTick = Time.time + fuelRegenRate;
+        }
+    }
+
+    void GenerateSquares()
+    {
         if (crewSquaresContainer != null && crewSquarePrefab != null)
         {
             crewSquares = new Image[(int)maxCrew];
             for (int i = 0; i < maxCrew; i++)
-            {
-                GameObject square = Instantiate(crewSquarePrefab, crewSquaresContainer);
-                crewSquares[i] = square.GetComponent<Image>();
-            }
+                crewSquares[i] = Instantiate(crewSquarePrefab, crewSquaresContainer).GetComponent<Image>();
         }
 
-        // Create fuel squares
         if (fuelSquaresContainer != null && fuelSquarePrefab != null)
         {
             fuelSquares = new Image[(int)maxFuel];
             for (int i = 0; i < maxFuel; i++)
-            {
-                GameObject square = Instantiate(fuelSquarePrefab, fuelSquaresContainer);
-                fuelSquares[i] = square.GetComponent<Image>();
-            }
+                fuelSquares[i] = Instantiate(fuelSquarePrefab, fuelSquaresContainer).GetComponent<Image>();
         }
-
-        UpdateCrewUI();
-        UpdateFuelUI();
     }
 
     public void TakeDamage(float amount)
     {
         currentCrew = Mathf.Clamp(currentCrew - amount, 0, maxCrew);
-        Debug.Log($"Crew hit! Remaining: {currentCrew}");
+        Debug.Log($"[ENEMY CREW] Crew hit! Remaining: {currentCrew}");
         UpdateCrewUI();
 
         if (currentCrew <= 0f)
@@ -89,6 +101,22 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
         UpdateCrewUI();
     }
 
+    public void ConsumeFuel(float amount)
+    {
+        currentFuel = Mathf.Clamp(currentFuel - amount, 0, maxFuel);
+        UpdateFuelUI();
+    }
+
+    void RegenerateFuel()
+    {
+        if (currentFuel < maxFuel)
+        {
+            currentFuel = Mathf.Min(currentFuel + fuelRegenAmount, maxFuel);
+            Debug.Log($"[ENEMY CREW] Regenerated fuel. Current: {currentFuel}");
+            UpdateFuelUI();
+        }
+    }
+
     void UpdateCrewUI()
     {
         if (crewFillHUD != null)
@@ -97,29 +125,7 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
         if (crewSquares == null || crewSquares.Length == 0) return;
 
         for (int i = 0; i < crewSquares.Length; i++)
-            crewSquares[i].color = crewInactiveColor;
-
-        int filled = Mathf.FloorToInt(currentCrew);
-        int rows = crewSquares.Length / 2;
-        int index = 0;
-
-        for (int row = 0; row < rows; row++)
-        {
-            int leftIndex = row * 2;
-            int rightIndex = row * 2 + 1;
-
-            if (index < filled && leftIndex < crewSquares.Length)
-            {
-                crewSquares[leftIndex].color = crewActiveColor;
-                index++;
-            }
-
-            if (index < filled && rightIndex < crewSquares.Length)
-            {
-                crewSquares[rightIndex].color = crewActiveColor;
-                index++;
-            }
-        }
+            crewSquares[i].color = i < currentCrew ? crewActiveColor : crewInactiveColor;
     }
 
     public void UpdateFuelUI()
@@ -127,34 +133,6 @@ public class EnemyCrew01 : MonoBehaviour, IDamageable
         if (fuelSquares == null || fuelSquares.Length == 0) return;
 
         for (int i = 0; i < fuelSquares.Length; i++)
-            fuelSquares[i].color = fuelInactiveColor;
-
-        int filled = Mathf.FloorToInt(currentFuel);
-        int rows = fuelSquares.Length / 2;
-        int index = 0;
-
-        for (int row = 0; row < rows; row++)
-        {
-            int leftIndex = row * 2;
-            int rightIndex = row * 2 + 1;
-
-            if (index < filled && leftIndex < fuelSquares.Length)
-            {
-                fuelSquares[leftIndex].color = fuelActiveColor;
-                index++;
-            }
-
-            if (index < filled && rightIndex < fuelSquares.Length)
-            {
-                fuelSquares[rightIndex].color = fuelActiveColor;
-                index++;
-            }
-        }
-    }
-
-    public void ConsumeFuel(float amount)
-    {
-        currentFuel = Mathf.Clamp(currentFuel - amount, 0, maxFuel);
-        UpdateFuelUI();
+            fuelSquares[i].color = i < currentFuel ? fuelActiveColor : fuelInactiveColor;
     }
 }

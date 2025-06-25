@@ -496,7 +496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 381, y: 186}
+  m_AnchoredPosition: {x: 336.3, y: -9.6}
   m_SizeDelta: {x: 29.6367, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &206066502
@@ -790,7 +790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 0.392}
+  m_Color: {r: 0.31132078, g: 0.31132078, b: 0.31132078, a: 0.29803923}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1188,7 +1188,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: -3.9, y: 3.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1211,9 +1211,10 @@ MonoBehaviour:
   offset: {x: 0, y: 0, z: -10}
   zoomLimiter: 41
   minZoom: 3
-  maxZoom: 20
+  maxZoom: 20.3
   zoomSmoothTime: 0.5
-  moveSpeed: 10
+  moveSpeed: 5
+  rightPaddingPercent: -0.333
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -1562,11 +1563,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4271842158931784031, guid: 3bc28d1a586770a4d85ab2c8bf965a33, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 338.97095
+      value: 387.7
       objectReference: {fileID: 0}
     - target: {fileID: 4271842158931784031, guid: 3bc28d1a586770a4d85ab2c8bf965a33, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 184.5271
+      value: 186.9
       objectReference: {fileID: 0}
     - target: {fileID: 4271842158931784031, guid: 3bc28d1a586770a4d85ab2c8bf965a33, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2163,7 +2164,7 @@ Transform:
   m_GameObject: {fileID: 1120537161}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.2, y: 6.15, z: 0}
+  m_LocalPosition: {x: -7, y: 9.9, z: 0}
   m_LocalScale: {x: 1.3131, y: 1.8529, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2352,10 +2353,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3580f02595af8e49a6322a0393a91ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xMin: -20
-  xMax: 20
-  yMin: -20
-  yMax: 20
 --- !u!114 &1120537170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2379,9 +2376,9 @@ MonoBehaviour:
   fuelSquaresContainer: {fileID: 1932854078}
   fuelSquarePrefab: {fileID: 3771276839022236902, guid: f8c15ee867d016d44b3fa7c56dda4c2c, type: 3}
   crewActiveColor: {r: 0, g: 1, b: 0, a: 1}
-  crewInactiveColor: {r: 0, g: 0, b: 0, a: 1}
+  crewInactiveColor: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
   fuelActiveColor: {r: 0.34531865, g: 0.5003329, b: 0.754717, a: 1}
-  fuelInactiveColor: {r: 0, g: 0, b: 0, a: 1}
+  fuelInactiveColor: {r: 0.14901961, g: 0.14901961, b: 0.14901961, a: 1}
 --- !u!1 &1176806493
 GameObject:
   m_ObjectHideFlags: 0
@@ -2488,7 +2485,7 @@ Transform:
   m_GameObject: {fileID: 1176806493}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalPosition: {x: -21.7, y: -0.1, z: 0}
   m_LocalScale: {x: 6.8779, y: 6.8779, z: 6.8779}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2746,7 +2743,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 1}
+  m_Color: {r: 0.5943396, g: 0.5943396, b: 0.5943396, a: 0.40392157}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3504,7 +3501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2056058350
 Transform:
   m_ObjectHideFlags: 0
@@ -3652,7 +3649,7 @@ Transform:
   m_GameObject: {fileID: 2145133667}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.76, y: 1.18, z: 0}
+  m_LocalPosition: {x: -21.6, y: 1.18, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3679,10 +3676,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3580f02595af8e49a6322a0393a91ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  xMin: -20
-  xMax: 20
-  yMin: -20
-  yMax: 20
 --- !u!1 &852202452217407056
 GameObject:
   m_ObjectHideFlags: 0
@@ -3745,7 +3738,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5904673439994349390}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7af4a0881a4f887429c6430fea11defe, type: 3}
   m_Name: 
@@ -3976,7 +3969,7 @@ Transform:
   m_GameObject: {fileID: 5904673439994349390}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.85, y: -6.15, z: 0}
+  m_LocalPosition: {x: -1.2, y: 3.1, z: 0}
   m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4143,7 +4136,7 @@ MonoBehaviour:
   maxSpeed: 3
   rotationSpeed: 180
   decelerationRate: 1
-  trackingRadius: 50
+  trackingRadius: 100
   avoidDistance: 10
   avoidanceStrength: 15
   raySpreadAngle: 70
@@ -4177,9 +4170,9 @@ MonoBehaviour:
   fuelSquaresContainer: {fileID: 1793837621}
   fuelSquarePrefab: {fileID: 3771276839022236902, guid: f8c15ee867d016d44b3fa7c56dda4c2c, type: 3}
   crewActiveColor: {r: 0, g: 1, b: 0, a: 1}
-  crewInactiveColor: {r: 0, g: 0, b: 0, a: 1}
+  crewInactiveColor: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
   fuelActiveColor: {r: 0.3499911, g: 0.39508396, b: 0.6132076, a: 1}
-  fuelInactiveColor: {r: 0, g: 0, b: 0, a: 1}
+  fuelInactiveColor: {r: 0.1509434, g: 0.1509434, b: 0.1509434, a: 1}
 --- !u!1 &8336274693646669068
 GameObject:
   m_ObjectHideFlags: 0

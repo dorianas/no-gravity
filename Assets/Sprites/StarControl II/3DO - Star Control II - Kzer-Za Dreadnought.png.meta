@@ -1,0 +1,4069 @@
+fileFormatVersion: 2
+guid: b8c804e855794174fabf9d05758fc204
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8762890292179308553
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_0
+  - first:
+      213: 5920525639236157871
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_1
+  - first:
+      213: -907779027008828964
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_2
+  - first:
+      213: -7074929252263436582
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_3
+  - first:
+      213: 2463767739329761132
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_4
+  - first:
+      213: 4136489511615896880
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_5
+  - first:
+      213: 516335334193064832
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_6
+  - first:
+      213: -5631575474598392913
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_7
+  - first:
+      213: 7277012183780612499
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_8
+  - first:
+      213: -4676150200774966041
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_9
+  - first:
+      213: -9162557247586262288
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_10
+  - first:
+      213: 2196234109159850497
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_11
+  - first:
+      213: -3823777323284970353
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_12
+  - first:
+      213: -6474049467784272522
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_13
+  - first:
+      213: -2946288079317476137
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_14
+  - first:
+      213: 4992243115761683241
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_15
+  - first:
+      213: 2349564920733741566
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_16
+  - first:
+      213: -6844886213683599072
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_17
+  - first:
+      213: -4015034644877971852
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_18
+  - first:
+      213: 42826559634355264
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_19
+  - first:
+      213: -124377033682174040
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_20
+  - first:
+      213: -7389233382167634906
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_21
+  - first:
+      213: 586436831456806671
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_22
+  - first:
+      213: -8048803716432335842
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_23
+  - first:
+      213: -1038622321828160614
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_24
+  - first:
+      213: -3898935087784304599
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_25
+  - first:
+      213: 2668304297026160911
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_26
+  - first:
+      213: 3828027456828186832
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_27
+  - first:
+      213: 5516822297812499673
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_28
+  - first:
+      213: 5201197443522687663
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_29
+  - first:
+      213: 2517143690571670076
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_30
+  - first:
+      213: -5459643857549862340
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_31
+  - first:
+      213: -5728559220217816602
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_32
+  - first:
+      213: 3705559086902654715
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_33
+  - first:
+      213: -4072087618529384195
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_34
+  - first:
+      213: -3379045864158668212
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_35
+  - first:
+      213: 5299787384245555057
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_36
+  - first:
+      213: -873326312878335372
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_37
+  - first:
+      213: 8601085958024173634
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_38
+  - first:
+      213: -6190653443256274072
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_39
+  - first:
+      213: 709006549114465306
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_40
+  - first:
+      213: 4597608003283638904
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_41
+  - first:
+      213: -4483269731453420430
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_42
+  - first:
+      213: -8091236047486838211
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_43
+  - first:
+      213: 8884090869036479314
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_44
+  - first:
+      213: 4121328971043648675
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_45
+  - first:
+      213: 1046329662020749499
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_46
+  - first:
+      213: -405912799772124765
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_47
+  - first:
+      213: -7203935174216497826
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_48
+  - first:
+      213: 1899623567912952271
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_49
+  - first:
+      213: -601892008062307291
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_50
+  - first:
+      213: 5137676746554004247
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_51
+  - first:
+      213: -6878009451401229301
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_52
+  - first:
+      213: 6900659229767154231
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_53
+  - first:
+      213: -9035844699530589915
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_54
+  - first:
+      213: 6312425621820969559
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_55
+  - first:
+      213: 9034035299288937143
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_56
+  - first:
+      213: -4693728233339722590
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_57
+  - first:
+      213: -3154066065991332297
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_58
+  - first:
+      213: -8628162504612285045
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_59
+  - first:
+      213: 5713314186040941506
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_60
+  - first:
+      213: 4056516691206670320
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_61
+  - first:
+      213: 3049240817299755759
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_62
+  - first:
+      213: -4793675770533791296
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_63
+  - first:
+      213: -9096083490330189771
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_64
+  - first:
+      213: 3063137321817299288
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_65
+  - first:
+      213: -1947715071481007946
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_66
+  - first:
+      213: 1092078728440355880
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_67
+  - first:
+      213: 4125991547108475037
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_68
+  - first:
+      213: -7787114565196255303
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_69
+  - first:
+      213: -788463334994086419
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_70
+  - first:
+      213: 5459743946502991073
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_71
+  - first:
+      213: -2902699164844037181
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_72
+  - first:
+      213: -3816273489129082375
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_73
+  - first:
+      213: -5024251065746026814
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_74
+  - first:
+      213: 1903136325008391485
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_75
+  - first:
+      213: -6970767459196841706
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_76
+  - first:
+      213: 9090772181147790867
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_77
+  - first:
+      213: -6475557853847831813
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_78
+  - first:
+      213: 7951147679621268396
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_79
+  - first:
+      213: -6295350941392390040
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_80
+  - first:
+      213: 789643942734221839
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_81
+  - first:
+      213: -478050242491709914
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_82
+  - first:
+      213: 303504309482491488
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_83
+  - first:
+      213: 6037365016682412917
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_84
+  - first:
+      213: -7659499747206837210
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_85
+  - first:
+      213: -3353002568152395418
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_86
+  - first:
+      213: -2770358075861721321
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_87
+  - first:
+      213: 1027297606279711082
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_88
+  - first:
+      213: 5468569230698541637
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_89
+  - first:
+      213: -4156355860703615748
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_90
+  - first:
+      213: 6672762766482488707
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_91
+  - first:
+      213: -9069276732105883608
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_92
+  - first:
+      213: 3892759484212521556
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_93
+  - first:
+      213: 4359757310344602504
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_94
+  - first:
+      213: 6517973630614100575
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_95
+  - first:
+      213: 2865301523723896533
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_96
+  - first:
+      213: 4800155909749256522
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_97
+  - first:
+      213: -8905376937779488133
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_98
+  - first:
+      213: -1927310725820329669
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_99
+  - first:
+      213: -4319401352901998754
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_100
+  - first:
+      213: 7432319680923618911
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_101
+  - first:
+      213: 8446228529522407655
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_102
+  - first:
+      213: 7193155093320250589
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_103
+  - first:
+      213: -5585264282951536105
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_104
+  - first:
+      213: -1762224143378432494
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_105
+  - first:
+      213: -1432213699792669341
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_106
+  - first:
+      213: -5294791927006351504
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_107
+  - first:
+      213: -1648234844910737761
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_108
+  - first:
+      213: 3893355320589130458
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_109
+  - first:
+      213: 5462558753537623747
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_110
+  - first:
+      213: -2621313004660106968
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_111
+  - first:
+      213: -1949202500827760607
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_112
+  - first:
+      213: 7175938246993461783
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_113
+  - first:
+      213: -3650068710585096964
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_114
+  - first:
+      213: -5587850294737709691
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_115
+  - first:
+      213: -4355082198380473076
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_116
+  - first:
+      213: 2670111149107189564
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_117
+  - first:
+      213: -6340128462585497182
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_118
+  - first:
+      213: -6753969511066242667
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_119
+  - first:
+      213: -7544923339372278824
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_120
+  - first:
+      213: 2507387031687607663
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_121
+  - first:
+      213: 8968090449815436999
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_122
+  - first:
+      213: 6676682938396925244
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_123
+  - first:
+      213: -8416810833615580672
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_124
+  - first:
+      213: 5029298025248751531
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_125
+  - first:
+      213: 7974812953126809675
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_126
+  - first:
+      213: -2402583805551921789
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_127
+  - first:
+      213: 3546962570573826937
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_128
+  - first:
+      213: 8510255074424860324
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_129
+  - first:
+      213: 3749031472958787635
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_130
+  - first:
+      213: -4799012602687739766
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_131
+  - first:
+      213: 7946878486492709922
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_132
+  - first:
+      213: -2520798930390338158
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_133
+  - first:
+      213: 4340513861697666258
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_134
+  - first:
+      213: 6258543338636009872
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_135
+  - first:
+      213: 5020855531512710038
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_136
+  - first:
+      213: -4482087086714835228
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_137
+  - first:
+      213: 8313230936192000856
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_138
+  - first:
+      213: 3522262235085628718
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_139
+  - first:
+      213: -7890542279459607997
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_140
+  - first:
+      213: -9164700685546324927
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_141
+  - first:
+      213: 6446988772410383053
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_142
+  - first:
+      213: -5651078840331809976
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_143
+  - first:
+      213: 1214547657465279739
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_144
+  - first:
+      213: -1220607626604520993
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_145
+  - first:
+      213: 8330322425087238476
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_146
+  - first:
+      213: -5280978942678173334
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_147
+  - first:
+      213: 9170675318897328302
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_148
+  - first:
+      213: 173665427451218038
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_149
+  - first:
+      213: -3932389287376862452
+    second: 3DO - Star Control II - Kzer-Za Dreadnought_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffeee005b5f36680800000000000000
+      internalID: -8762890292179308553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1834a53bee92250800000000000000
+      internalID: 5920525639236157871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 166
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c698d8cbe663f0800000000000000
+      internalID: -907779027008828964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 169
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade51d3645dc0dd90800000000000000
+      internalID: -7074929252263436582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 170
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f41df84bf013220800000000000000
+      internalID: 2463767739329761132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9ef47b43c76930800000000000000
+      internalID: 4136489511615896880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 167
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b6f8330446a2700800000000000000
+      internalID: 516335334193064832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 167
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc2c671ff98d1b0800000000000000
+      internalID: -5631575474598392913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 165
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399de60a6042df460800000000000000
+      internalID: 7277012183780612499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 166
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4cf6eea2afa1fb0800000000000000
+      internalID: -4676150200774966041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 167
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a0778abe08d080800000000000000
+      internalID: -9162557247586262288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 169
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102c11049479a7e10800000000000000
+      internalID: 2196234109159850497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 170
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c761a8c63feac0800000000000000
+      internalID: -3823777323284970353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 168
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675696e5f4e8726a0800000000000000
+      internalID: -6474049467784272522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 167
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc505a1a9eac17d0800000000000000
+      internalID: -2946288079317476137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 165
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b4d5be9a2084540800000000000000
+      internalID: 4992243115761683241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1bd0dc8d45b9020800000000000000
+      internalID: 2349564920733741566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 147
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ab6121441201a0800000000000000
+      internalID: -6844886213683599072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 148
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e6927534bb748c0800000000000000
+      internalID: -4015034644877971852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04435f17786289000800000000000000
+      internalID: 42826559634355264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 150
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af38213fbf164ef0800000000000000
+      internalID: -124377033682174040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c9075836b247990800000000000000
+      internalID: -7389233382167634906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_22
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07403ee031732800800000000000000
+      internalID: 586436831456806671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce43f0aa7ec4090800000000000000
+      internalID: -8048803716432335842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b14ab40821691f0800000000000000
+      internalID: -1038622321828160614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 147
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9206f42f13334e9c0800000000000000
+      internalID: -3898935087784304599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 149
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0984e0fe98b70520800000000000000
+      internalID: 2668304297026160911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0afa2b0b2ef1530800000000000000
+      internalID: 3828027456828186832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 150
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc711686a0bf8c40800000000000000
+      internalID: 5516822297812499673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_29
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2f6db848d5e2840800000000000000
+      internalID: 5201197443522687663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 149
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32e325a9d0bee220800000000000000
+      internalID: 2517143690571670076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 147
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ad89686d27b34b0800000000000000
+      internalID: -5459643857549862340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d02c8db11080b0800000000000000
+      internalID: -5728559220217816602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6bd0d4b5acc6330800000000000000
+      internalID: 3705559086902654715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_34
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 139
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82a43c2e90d77c0800000000000000
+      internalID: -4072087618529384195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ad11380b73b11d0800000000000000
+      internalID: -3379045864158668212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 139
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f8d07eb80ac8940800000000000000
+      internalID: 5299787384245555057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a92e3785251e3f0800000000000000
+      internalID: -873326312878335372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24891aabb123d5770800000000000000
+      internalID: 8601085958024173634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863392b2e71661aa0800000000000000
+      internalID: -6190653443256274072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 137
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ca46f23b5e6d900800000000000000
+      internalID: 709006549114465306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad63cae1cfdcf30800000000000000
+      internalID: 4597608003283638904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_42
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c3570cee938c1c0800000000000000
+      internalID: -4483269731453420430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a16bb1fa726bf80800000000000000
+      internalID: -8091236047486838211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 139
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253f5315391aa4b70800000000000000
+      internalID: 8884090869036479314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_45
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a435990dd6e13930800000000000000
+      internalID: 4121328971043648675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_46
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb883bea84f458e00800000000000000
+      internalID: 1046329662020749499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95ccf8578ed5af0800000000000000
+      internalID: -405912799772124765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5542eb802b760c90800000000000000
+      internalID: -7203935174216497826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc169640291dc5a10800000000000000
+      internalID: 1899623567912952271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_50
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 127
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524bc4a5866a5a7f0800000000000000
+      internalID: -601892008062307291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d229c7c1bc4740800000000000000
+      internalID: 5137676746554004247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_52
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 130
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c437f58d66c80a0800000000000000
+      internalID: -6878009451401229301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 130
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73aba4a120114cf50800000000000000
+      internalID: 6900659229767154231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 130
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52902e6ae1b3a9280800000000000000
+      internalID: -9035844699530589915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75296bb88ad3a9750800000000000000
+      internalID: 6312425621820969559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2f4768d375f5d70800000000000000
+      internalID: 9034035299288937143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 110
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4609b4a078cdeb0800000000000000
+      internalID: -4693728233339722590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_58
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 118
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e097abf918a34d0800000000000000
+      internalID: -3154066065991332297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 119
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b857d308aeb924880800000000000000
+      internalID: -8628162504612285045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 120
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb9b255bf4c94f40800000000000000
+      internalID: 5713314186040941506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_61
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 92
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f701d43074ab4830800000000000000
+      internalID: 4056516691206670320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe216c52e54115a20800000000000000
+      internalID: 3049240817299755759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 106
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bfe0e841797db0800000000000000
+      internalID: -4793675770533791296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_64
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 107
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e297324834c180800000000000000
+      internalID: -9096083490330189771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 112
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859592d3a23728a20800000000000000
+      internalID: 3063137321817299288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_66
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 115
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b033b0467358f4e0800000000000000
+      internalID: -1947715071481007946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c927341d7d72f00800000000000000
+      internalID: 1092078728440355880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_68
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d904aaf9377724930800000000000000
+      internalID: 4125991547108475037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 106
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe4349f8c9ee390800000000000000
+      internalID: -7787114565196255303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 104
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5f14736c0de05f0800000000000000
+      internalID: -788463334994086419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_71
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 106
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec66ef3138e4cb40800000000000000
+      internalID: 5459743946502991073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_72
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 107
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe5ad1d7a87b7d0800000000000000
+      internalID: -2902699164844037181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 112
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f178ba2b7fd90bc0800000000000000
+      internalID: -3816273489129082375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce84db7646464ab0800000000000000
+      internalID: -5024251065746026814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 112
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d7443876c496a10800000000000000
+      internalID: 1903136325008391485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 107
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61158b6bdebd24f90800000000000000
+      internalID: -6970767459196841706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_77
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 106
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e215f3229e82e70800000000000000
+      internalID: 9090772181147790867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_78
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab8eed0723226a0800000000000000
+      internalID: -6475557853847831813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_79
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 73
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34f7800b6285e60800000000000000
+      internalID: 7951147679621268396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b2e94cab62a8a0800000000000000
+      internalID: -6295350941392390040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_81
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 112
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0256b17bf065fa00800000000000000
+      internalID: 789643942734221839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_82
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 113
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260e7756df9d59f0800000000000000
+      internalID: -478050242491709914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_83
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e018abf83463400800000000000000
+      internalID: 303504309482491488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_84
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bb9bece7709c350800000000000000
+      internalID: 6037365016682412917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_85
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 100
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cca8acf8df3b590800000000000000
+      internalID: -7659499747206837210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_86
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661dd42ededb771d0800000000000000
+      internalID: -3353002568152395418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_87
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 96
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f90ab0206bd89d0800000000000000
+      internalID: -2770358075861721321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_88
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 99
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6949e4eab1b14e00800000000000000
+      internalID: 1027297606279711082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 94
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542fa69ddb244eb40800000000000000
+      internalID: 5468569230698541637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_90
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4e5a2bd58a156c0800000000000000
+      internalID: -4156355860703615748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_91
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d34aed16a6a9c50800000000000000
+      internalID: 6672762766482488707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_92
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 92
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200d1dfcd4732280800000000000000
+      internalID: -9069276732105883608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_93
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 98
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a258c402cd50630800000000000000
+      internalID: 3892759484212521556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a00ebc28f08c30800000000000000
+      internalID: 4359757310344602504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_95
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 92
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5add1cbb7e747a50800000000000000
+      internalID: 6517973630614100575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_96
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 99
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c2f70e8893c720800000000000000
+      internalID: 2865301523723896533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b81b1e549d9240800000000000000
+      internalID: 4800155909749256522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a92b89bdeb96480800000000000000
+      internalID: -8905376937779488133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_99
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 82
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31ddaf2b11d045e0800000000000000
+      internalID: -1927310725820329669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e574fedca576e04c0800000000000000
+      internalID: -4319401352901998754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec8962f57e42760800000000000000
+      internalID: 7432319680923618911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_102
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8f3f9f818073570800000000000000
+      internalID: 8446228529522407655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_103
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd435a7427833d360800000000000000
+      internalID: 7193155093320250589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7123ff50ab72d72b0800000000000000
+      internalID: -5585264282951536105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 82
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ebf4f6a725b87e0800000000000000
+      internalID: -1762224143378432494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f86d6a31cf1ce0800000000000000
+      internalID: -1432213699792669341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f2e2f9bce1586b0800000000000000
+      internalID: -5294791927006351504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_108
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96acaa242b4029e0800000000000000
+      internalID: -1648234844910737761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_109
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 76
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9714490af70630800000000000000
+      internalID: 3893355320589130458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 75
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68f459e38eecb40800000000000000
+      internalID: 5462558753537623747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 57
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295f18e5b93f9bd0800000000000000
+      internalID: -2621313004660106968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 56
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128bbde17aa03f4e0800000000000000
+      internalID: -1949202500827760607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_113
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7124f2ed0dd069360800000000000000
+      internalID: 7175938246993461783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_114
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 85
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4aecbb8d9585dc0800000000000000
+      internalID: -3650068710585096964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585d81c33c7f372b0800000000000000
+      internalID: -5587850294737709691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_116
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0597e590d3af83c0800000000000000
+      internalID: -4355082198380473076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 85
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37185971f32e0520800000000000000
+      internalID: 2670111149107189564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_118
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 83
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97f3531c65308a0800000000000000
+      internalID: -6340128462585497182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_119
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 82
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591f31583841542a0800000000000000
+      internalID: -6753969511066242667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_120
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db4923923c0b4790800000000000000
+      internalID: -7544923339372278824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_121
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65392a78370cc220800000000000000
+      internalID: 2507387031687607663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 75
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce72d6cfbe057c70800000000000000
+      internalID: 8968090449815436999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 72
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5f0502c758ac50800000000000000
+      internalID: 6676682938396925244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_124
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0021fa8142b713b80800000000000000
+      internalID: -8416810833615580672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_125
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf768858e7abc540800000000000000
+      internalID: 5029298025248751531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 72
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40be45e02a3cae60800000000000000
+      internalID: 7974812953126809675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_127
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 75
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b8fe12ce48aed0800000000000000
+      internalID: -2402583805551921789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 50
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bc8a25aa7593130800000000000000
+      internalID: 3546962570573826937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_129
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae2f03a6ef7a1670800000000000000
+      internalID: 8510255074424860324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_130
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d77de24c370430800000000000000
+      internalID: 3749031472958787635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_131
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 58
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88ac20d67b766db0800000000000000
+      internalID: -4799012602687739766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_132
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 59
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224879c01ebf84e60800000000000000
+      internalID: 7946878486492709922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 58
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29536e38ab2540dd0800000000000000
+      internalID: -2520798930390338158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_134
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 58
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcf5253c5a9c3c30800000000000000
+      internalID: 4340513861697666258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_135
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 35
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09169ced100dad650800000000000000
+      internalID: 6258543338636009872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_136
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 35
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ce581189ada540800000000000000
+      internalID: 5020855531512710038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_137
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 35
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2fffaa8d6cc1c0800000000000000
+      internalID: -4482087086714835228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_138
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8532387bd778e5370800000000000000
+      internalID: 8313230936192000856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_139
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e256d0057d691e030800000000000000
+      internalID: 3522262235085628718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_140
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 19
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aeb9b4a992f7290800000000000000
+      internalID: -7890542279459607997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_141
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 19
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c7b3d784170d080800000000000000
+      internalID: -9164700685546324927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_142
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 19
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcad372812e487950800000000000000
+      internalID: 6446988772410383053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_143
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 19
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bcb444cb55391b0800000000000000
+      internalID: -5651078840331809976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_144
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 19
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43006d8a0fad010800000000000000
+      internalID: 1214547657465279739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_145
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 19
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9da16a4d78f0fe0800000000000000
+      internalID: -1220607626604520993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_146
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41abc31c104b9370800000000000000
+      internalID: 8330322425087238476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697957a1a136b6b0800000000000000
+      internalID: -5280978942678173334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_148
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0415d3d98c44f70800000000000000
+      internalID: 9170675318897328302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_149
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6780ff049cbf86200800000000000000
+      internalID: 173665427451218038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Kzer-Za Dreadnought_150
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c95f17c85d69c0800000000000000
+      internalID: -3932389287376862452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7f9eca244b78a84f9c3294efe3746f8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3DO - Star Control II - Kzer-Za Dreadnought_0: -8762890292179308553
+      3DO - Star Control II - Kzer-Za Dreadnought_1: 5920525639236157871
+      3DO - Star Control II - Kzer-Za Dreadnought_10: -9162557247586262288
+      3DO - Star Control II - Kzer-Za Dreadnought_100: -4319401352901998754
+      3DO - Star Control II - Kzer-Za Dreadnought_101: 7432319680923618911
+      3DO - Star Control II - Kzer-Za Dreadnought_102: 8446228529522407655
+      3DO - Star Control II - Kzer-Za Dreadnought_103: 7193155093320250589
+      3DO - Star Control II - Kzer-Za Dreadnought_104: -5585264282951536105
+      3DO - Star Control II - Kzer-Za Dreadnought_105: -1762224143378432494
+      3DO - Star Control II - Kzer-Za Dreadnought_106: -1432213699792669341
+      3DO - Star Control II - Kzer-Za Dreadnought_107: -5294791927006351504
+      3DO - Star Control II - Kzer-Za Dreadnought_108: -1648234844910737761
+      3DO - Star Control II - Kzer-Za Dreadnought_109: 3893355320589130458
+      3DO - Star Control II - Kzer-Za Dreadnought_11: 2196234109159850497
+      3DO - Star Control II - Kzer-Za Dreadnought_110: 5462558753537623747
+      3DO - Star Control II - Kzer-Za Dreadnought_111: -2621313004660106968
+      3DO - Star Control II - Kzer-Za Dreadnought_112: -1949202500827760607
+      3DO - Star Control II - Kzer-Za Dreadnought_113: 7175938246993461783
+      3DO - Star Control II - Kzer-Za Dreadnought_114: -3650068710585096964
+      3DO - Star Control II - Kzer-Za Dreadnought_115: -5587850294737709691
+      3DO - Star Control II - Kzer-Za Dreadnought_116: -4355082198380473076
+      3DO - Star Control II - Kzer-Za Dreadnought_117: 2670111149107189564
+      3DO - Star Control II - Kzer-Za Dreadnought_118: -6340128462585497182
+      3DO - Star Control II - Kzer-Za Dreadnought_119: -6753969511066242667
+      3DO - Star Control II - Kzer-Za Dreadnought_12: -3823777323284970353
+      3DO - Star Control II - Kzer-Za Dreadnought_120: -7544923339372278824
+      3DO - Star Control II - Kzer-Za Dreadnought_121: 2507387031687607663
+      3DO - Star Control II - Kzer-Za Dreadnought_122: 8968090449815436999
+      3DO - Star Control II - Kzer-Za Dreadnought_123: 6676682938396925244
+      3DO - Star Control II - Kzer-Za Dreadnought_124: -8416810833615580672
+      3DO - Star Control II - Kzer-Za Dreadnought_125: 5029298025248751531
+      3DO - Star Control II - Kzer-Za Dreadnought_126: 7974812953126809675
+      3DO - Star Control II - Kzer-Za Dreadnought_127: -2402583805551921789
+      3DO - Star Control II - Kzer-Za Dreadnought_128: 3546962570573826937
+      3DO - Star Control II - Kzer-Za Dreadnought_129: 8510255074424860324
+      3DO - Star Control II - Kzer-Za Dreadnought_13: -6474049467784272522
+      3DO - Star Control II - Kzer-Za Dreadnought_130: 3749031472958787635
+      3DO - Star Control II - Kzer-Za Dreadnought_131: -4799012602687739766
+      3DO - Star Control II - Kzer-Za Dreadnought_132: 7946878486492709922
+      3DO - Star Control II - Kzer-Za Dreadnought_133: -2520798930390338158
+      3DO - Star Control II - Kzer-Za Dreadnought_134: 4340513861697666258
+      3DO - Star Control II - Kzer-Za Dreadnought_135: 6258543338636009872
+      3DO - Star Control II - Kzer-Za Dreadnought_136: 5020855531512710038
+      3DO - Star Control II - Kzer-Za Dreadnought_137: -4482087086714835228
+      3DO - Star Control II - Kzer-Za Dreadnought_138: 8313230936192000856
+      3DO - Star Control II - Kzer-Za Dreadnought_139: 3522262235085628718
+      3DO - Star Control II - Kzer-Za Dreadnought_14: -2946288079317476137
+      3DO - Star Control II - Kzer-Za Dreadnought_140: -7890542279459607997
+      3DO - Star Control II - Kzer-Za Dreadnought_141: -9164700685546324927
+      3DO - Star Control II - Kzer-Za Dreadnought_142: 6446988772410383053
+      3DO - Star Control II - Kzer-Za Dreadnought_143: -5651078840331809976
+      3DO - Star Control II - Kzer-Za Dreadnought_144: 1214547657465279739
+      3DO - Star Control II - Kzer-Za Dreadnought_145: -1220607626604520993
+      3DO - Star Control II - Kzer-Za Dreadnought_146: 8330322425087238476
+      3DO - Star Control II - Kzer-Za Dreadnought_147: -5280978942678173334
+      3DO - Star Control II - Kzer-Za Dreadnought_148: 9170675318897328302
+      3DO - Star Control II - Kzer-Za Dreadnought_149: 173665427451218038
+      3DO - Star Control II - Kzer-Za Dreadnought_15: 4992243115761683241
+      3DO - Star Control II - Kzer-Za Dreadnought_150: -3932389287376862452
+      3DO - Star Control II - Kzer-Za Dreadnought_16: 2349564920733741566
+      3DO - Star Control II - Kzer-Za Dreadnought_17: -6844886213683599072
+      3DO - Star Control II - Kzer-Za Dreadnought_18: -4015034644877971852
+      3DO - Star Control II - Kzer-Za Dreadnought_19: 42826559634355264
+      3DO - Star Control II - Kzer-Za Dreadnought_2: -907779027008828964
+      3DO - Star Control II - Kzer-Za Dreadnought_20: -124377033682174040
+      3DO - Star Control II - Kzer-Za Dreadnought_21: -7389233382167634906
+      3DO - Star Control II - Kzer-Za Dreadnought_22: 586436831456806671
+      3DO - Star Control II - Kzer-Za Dreadnought_23: -8048803716432335842
+      3DO - Star Control II - Kzer-Za Dreadnought_24: -1038622321828160614
+      3DO - Star Control II - Kzer-Za Dreadnought_25: -3898935087784304599
+      3DO - Star Control II - Kzer-Za Dreadnought_26: 2668304297026160911
+      3DO - Star Control II - Kzer-Za Dreadnought_27: 3828027456828186832
+      3DO - Star Control II - Kzer-Za Dreadnought_28: 5516822297812499673
+      3DO - Star Control II - Kzer-Za Dreadnought_29: 5201197443522687663
+      3DO - Star Control II - Kzer-Za Dreadnought_3: -7074929252263436582
+      3DO - Star Control II - Kzer-Za Dreadnought_30: 2517143690571670076
+      3DO - Star Control II - Kzer-Za Dreadnought_31: -5459643857549862340
+      3DO - Star Control II - Kzer-Za Dreadnought_32: -5728559220217816602
+      3DO - Star Control II - Kzer-Za Dreadnought_33: 3705559086902654715
+      3DO - Star Control II - Kzer-Za Dreadnought_34: -4072087618529384195
+      3DO - Star Control II - Kzer-Za Dreadnought_35: -3379045864158668212
+      3DO - Star Control II - Kzer-Za Dreadnought_36: 5299787384245555057
+      3DO - Star Control II - Kzer-Za Dreadnought_37: -873326312878335372
+      3DO - Star Control II - Kzer-Za Dreadnought_38: 8601085958024173634
+      3DO - Star Control II - Kzer-Za Dreadnought_39: -6190653443256274072
+      3DO - Star Control II - Kzer-Za Dreadnought_4: 2463767739329761132
+      3DO - Star Control II - Kzer-Za Dreadnought_40: 709006549114465306
+      3DO - Star Control II - Kzer-Za Dreadnought_41: 4597608003283638904
+      3DO - Star Control II - Kzer-Za Dreadnought_42: -4483269731453420430
+      3DO - Star Control II - Kzer-Za Dreadnought_43: -8091236047486838211
+      3DO - Star Control II - Kzer-Za Dreadnought_44: 8884090869036479314
+      3DO - Star Control II - Kzer-Za Dreadnought_45: 4121328971043648675
+      3DO - Star Control II - Kzer-Za Dreadnought_46: 1046329662020749499
+      3DO - Star Control II - Kzer-Za Dreadnought_47: -405912799772124765
+      3DO - Star Control II - Kzer-Za Dreadnought_48: -7203935174216497826
+      3DO - Star Control II - Kzer-Za Dreadnought_49: 1899623567912952271
+      3DO - Star Control II - Kzer-Za Dreadnought_5: 4136489511615896880
+      3DO - Star Control II - Kzer-Za Dreadnought_50: -601892008062307291
+      3DO - Star Control II - Kzer-Za Dreadnought_51: 5137676746554004247
+      3DO - Star Control II - Kzer-Za Dreadnought_52: -6878009451401229301
+      3DO - Star Control II - Kzer-Za Dreadnought_53: 6900659229767154231
+      3DO - Star Control II - Kzer-Za Dreadnought_54: -9035844699530589915
+      3DO - Star Control II - Kzer-Za Dreadnought_55: 6312425621820969559
+      3DO - Star Control II - Kzer-Za Dreadnought_56: 9034035299288937143
+      3DO - Star Control II - Kzer-Za Dreadnought_57: -4693728233339722590
+      3DO - Star Control II - Kzer-Za Dreadnought_58: -3154066065991332297
+      3DO - Star Control II - Kzer-Za Dreadnought_59: -8628162504612285045
+      3DO - Star Control II - Kzer-Za Dreadnought_6: 516335334193064832
+      3DO - Star Control II - Kzer-Za Dreadnought_60: 5713314186040941506
+      3DO - Star Control II - Kzer-Za Dreadnought_61: 4056516691206670320
+      3DO - Star Control II - Kzer-Za Dreadnought_62: 3049240817299755759
+      3DO - Star Control II - Kzer-Za Dreadnought_63: -4793675770533791296
+      3DO - Star Control II - Kzer-Za Dreadnought_64: -9096083490330189771
+      3DO - Star Control II - Kzer-Za Dreadnought_65: 3063137321817299288
+      3DO - Star Control II - Kzer-Za Dreadnought_66: -1947715071481007946
+      3DO - Star Control II - Kzer-Za Dreadnought_67: 1092078728440355880
+      3DO - Star Control II - Kzer-Za Dreadnought_68: 4125991547108475037
+      3DO - Star Control II - Kzer-Za Dreadnought_69: -7787114565196255303
+      3DO - Star Control II - Kzer-Za Dreadnought_7: -5631575474598392913
+      3DO - Star Control II - Kzer-Za Dreadnought_70: -788463334994086419
+      3DO - Star Control II - Kzer-Za Dreadnought_71: 5459743946502991073
+      3DO - Star Control II - Kzer-Za Dreadnought_72: -2902699164844037181
+      3DO - Star Control II - Kzer-Za Dreadnought_73: -3816273489129082375
+      3DO - Star Control II - Kzer-Za Dreadnought_74: -5024251065746026814
+      3DO - Star Control II - Kzer-Za Dreadnought_75: 1903136325008391485
+      3DO - Star Control II - Kzer-Za Dreadnought_76: -6970767459196841706
+      3DO - Star Control II - Kzer-Za Dreadnought_77: 9090772181147790867
+      3DO - Star Control II - Kzer-Za Dreadnought_78: -6475557853847831813
+      3DO - Star Control II - Kzer-Za Dreadnought_79: 7951147679621268396
+      3DO - Star Control II - Kzer-Za Dreadnought_8: 7277012183780612499
+      3DO - Star Control II - Kzer-Za Dreadnought_80: -6295350941392390040
+      3DO - Star Control II - Kzer-Za Dreadnought_81: 789643942734221839
+      3DO - Star Control II - Kzer-Za Dreadnought_82: -478050242491709914
+      3DO - Star Control II - Kzer-Za Dreadnought_83: 303504309482491488
+      3DO - Star Control II - Kzer-Za Dreadnought_84: 6037365016682412917
+      3DO - Star Control II - Kzer-Za Dreadnought_85: -7659499747206837210
+      3DO - Star Control II - Kzer-Za Dreadnought_86: -3353002568152395418
+      3DO - Star Control II - Kzer-Za Dreadnought_87: -2770358075861721321
+      3DO - Star Control II - Kzer-Za Dreadnought_88: 1027297606279711082
+      3DO - Star Control II - Kzer-Za Dreadnought_89: 5468569230698541637
+      3DO - Star Control II - Kzer-Za Dreadnought_9: -4676150200774966041
+      3DO - Star Control II - Kzer-Za Dreadnought_90: -4156355860703615748
+      3DO - Star Control II - Kzer-Za Dreadnought_91: 6672762766482488707
+      3DO - Star Control II - Kzer-Za Dreadnought_92: -9069276732105883608
+      3DO - Star Control II - Kzer-Za Dreadnought_93: 3892759484212521556
+      3DO - Star Control II - Kzer-Za Dreadnought_94: 4359757310344602504
+      3DO - Star Control II - Kzer-Za Dreadnought_95: 6517973630614100575
+      3DO - Star Control II - Kzer-Za Dreadnought_96: 2865301523723896533
+      3DO - Star Control II - Kzer-Za Dreadnought_97: 4800155909749256522
+      3DO - Star Control II - Kzer-Za Dreadnought_98: -8905376937779488133
+      3DO - Star Control II - Kzer-Za Dreadnought_99: -1927310725820329669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,26 +1,31 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class WrapAroundMovement : MonoBehaviour
 {
-    private const float xMin = -50f;
-    private const float xMax = 14.5f;
-    private const float yMin = -20f;
-    private const float yMax = 20f;
+    public enum WrapMode { WorldBounds, CameraView }
+    public WrapMode wrapMode = WrapMode.WorldBounds;
+
+    [Header("World Wrap Area (for WorldBounds mode)")]
+    [SerializeField] private float xMin = -25f;
+    [SerializeField] private float xMax = 25f;
+    [SerializeField] private float yMin = -20f;
+    [SerializeField] private float yMax = 20f;
 
     public float XMin => xMin;
     public float XMax => xMax;
     public float YMin => yMin;
     public float YMax => yMax;
+    public float WrapWidth => xMax - xMin;
+    public float WrapHeight => yMax - yMin;
 
+    private Camera cam;
     private Rigidbody2D rb;
 
-    void Start()
+    void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        if (rb == null)
-        {
-            Debug.LogError("WrapAroundMovement requires a Rigidbody2D component.");
-        }
+        cam = Camera.main;
     }
 
     void Update()
@@ -28,32 +33,58 @@ public class WrapAroundMovement : MonoBehaviour
         if (rb == null) return;
 
         Vector2 pos = rb.position;
+        bool wrapped = false;
 
-        if (pos.x > xMax) pos.x = xMin;
-        else if (pos.x < xMin) pos.x = xMax;
+        if (wrapMode == WrapMode.WorldBounds)
+        {
+            if (pos.x > xMax) pos.x = xMin;
+            else if (pos.x < xMin) pos.x = xMax;
 
-        if (pos.y > yMax) pos.y = yMin;
-        else if (pos.y < yMin) pos.y = yMax;
+            if (pos.y > yMax) pos.y = yMin;
+            else if (pos.y < yMin) pos.y = yMax;
+        }
+        else if (wrapMode == WrapMode.CameraView && cam != null)
+        {
+            float camHeight = 2f * cam.orthographicSize;
+            float camWidth = camHeight * cam.aspect;
 
-        rb.position = pos;
+            float left = cam.transform.position.x - camWidth / 2f;
+            float right = cam.transform.position.x + camWidth / 2f;
+            float bottom = cam.transform.position.y - camHeight / 2f;
+            float top = cam.transform.position.y + camHeight / 2f;
 
-        DrawRuntimeBounds();
+            if (pos.x < left) { pos.x = right; wrapped = true; }
+            else if (pos.x > right) { pos.x = left; wrapped = true; }
+
+            if (pos.y < bottom) { pos.y = top; wrapped = true; }
+            else if (pos.y > top) { pos.y = bottom; wrapped = true; }
+
+            DrawBounds(left, right, bottom, top, Color.magenta);
+        }
+
+        if (wrapped || wrapMode == WrapMode.WorldBounds)
+            rb.position = pos;
     }
 
-    private void DrawRuntimeBounds()
+    private void DrawBounds(float xMin, float xMax, float yMin, float yMax, Color color)
     {
-        Debug.DrawLine(new Vector3(xMin, yMin), new Vector3(xMax, yMin), Color.green);
-        Debug.DrawLine(new Vector3(xMax, yMin), new Vector3(xMax, yMax), Color.green);
-        Debug.DrawLine(new Vector3(xMax, yMax), new Vector3(xMin, yMax), Color.green);
-        Debug.DrawLine(new Vector3(xMin, yMax), new Vector3(xMin, yMin), Color.green);
+        Vector3 bl = new Vector3(xMin, yMin);
+        Vector3 br = new Vector3(xMax, yMin);
+        Vector3 tr = new Vector3(xMax, yMax);
+        Vector3 tl = new Vector3(xMin, yMax);
+
+        Debug.DrawLine(bl, br, color);
+        Debug.DrawLine(br, tr, color);
+        Debug.DrawLine(tr, tl, color);
+        Debug.DrawLine(tl, bl, color);
     }
 
     void OnDrawGizmos()
     {
-        Gizmos.color = Color.cyan;
-        Gizmos.DrawLine(new Vector3(xMin, yMin), new Vector3(xMax, yMin));
-        Gizmos.DrawLine(new Vector3(xMax, yMin), new Vector3(xMax, yMax));
-        Gizmos.DrawLine(new Vector3(xMax, yMax), new Vector3(xMin, yMax));
-        Gizmos.DrawLine(new Vector3(xMin, yMax), new Vector3(xMin, yMin));
+        if (wrapMode == WrapMode.WorldBounds)
+        {
+            Gizmos.color = Color.cyan;
+            DrawBounds(xMin, xMax, yMin, yMax, Gizmos.color);
+        }
     }
 }

@@ -1,0 +1,2193 @@
+fileFormatVersion: 2
+guid: b56720fbe8ec62d48b553f6e2f13ca55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5388964732779008593
+    second: 3DO - Star Control II - Chenjesu Broodhome_0
+  - first:
+      213: 8470672396005303841
+    second: 3DO - Star Control II - Chenjesu Broodhome_1
+  - first:
+      213: -744714245649002473
+    second: 3DO - Star Control II - Chenjesu Broodhome_2
+  - first:
+      213: 3936125868871017827
+    second: 3DO - Star Control II - Chenjesu Broodhome_3
+  - first:
+      213: 69902877220209460
+    second: 3DO - Star Control II - Chenjesu Broodhome_4
+  - first:
+      213: 6592037248524046682
+    second: 3DO - Star Control II - Chenjesu Broodhome_5
+  - first:
+      213: 796007746200463473
+    second: 3DO - Star Control II - Chenjesu Broodhome_6
+  - first:
+      213: 605516679666274068
+    second: 3DO - Star Control II - Chenjesu Broodhome_7
+  - first:
+      213: 2134084260083585702
+    second: 3DO - Star Control II - Chenjesu Broodhome_8
+  - first:
+      213: 4046748993855308726
+    second: 3DO - Star Control II - Chenjesu Broodhome_9
+  - first:
+      213: 8178575820643488573
+    second: 3DO - Star Control II - Chenjesu Broodhome_10
+  - first:
+      213: 2438955779989178645
+    second: 3DO - Star Control II - Chenjesu Broodhome_11
+  - first:
+      213: 7602860319148975080
+    second: 3DO - Star Control II - Chenjesu Broodhome_12
+  - first:
+      213: 9100496018167884201
+    second: 3DO - Star Control II - Chenjesu Broodhome_13
+  - first:
+      213: 5674698805593630714
+    second: 3DO - Star Control II - Chenjesu Broodhome_14
+  - first:
+      213: 3141178504867026763
+    second: 3DO - Star Control II - Chenjesu Broodhome_15
+  - first:
+      213: -3360114398201773726
+    second: 3DO - Star Control II - Chenjesu Broodhome_16
+  - first:
+      213: 1235880232599402460
+    second: 3DO - Star Control II - Chenjesu Broodhome_17
+  - first:
+      213: 5256214489099728400
+    second: 3DO - Star Control II - Chenjesu Broodhome_18
+  - first:
+      213: -2914025989117544015
+    second: 3DO - Star Control II - Chenjesu Broodhome_19
+  - first:
+      213: 546348002707830757
+    second: 3DO - Star Control II - Chenjesu Broodhome_20
+  - first:
+      213: 3195302098654683819
+    second: 3DO - Star Control II - Chenjesu Broodhome_21
+  - first:
+      213: 353321564063604783
+    second: 3DO - Star Control II - Chenjesu Broodhome_22
+  - first:
+      213: 5661265981011771189
+    second: 3DO - Star Control II - Chenjesu Broodhome_23
+  - first:
+      213: 4008977738916471807
+    second: 3DO - Star Control II - Chenjesu Broodhome_24
+  - first:
+      213: -9175191113171322427
+    second: 3DO - Star Control II - Chenjesu Broodhome_25
+  - first:
+      213: 2131368283143458284
+    second: 3DO - Star Control II - Chenjesu Broodhome_26
+  - first:
+      213: 3781741170100161853
+    second: 3DO - Star Control II - Chenjesu Broodhome_27
+  - first:
+      213: 8966845643863618586
+    second: 3DO - Star Control II - Chenjesu Broodhome_28
+  - first:
+      213: -4027291191007276689
+    second: 3DO - Star Control II - Chenjesu Broodhome_29
+  - first:
+      213: 2751383544779009822
+    second: 3DO - Star Control II - Chenjesu Broodhome_30
+  - first:
+      213: 1904249825211375962
+    second: 3DO - Star Control II - Chenjesu Broodhome_31
+  - first:
+      213: -7416144783028304995
+    second: 3DO - Star Control II - Chenjesu Broodhome_32
+  - first:
+      213: 4779165399316140881
+    second: 3DO - Star Control II - Chenjesu Broodhome_33
+  - first:
+      213: -227520012972498424
+    second: 3DO - Star Control II - Chenjesu Broodhome_34
+  - first:
+      213: -5585793252931651848
+    second: 3DO - Star Control II - Chenjesu Broodhome_35
+  - first:
+      213: 5819251580065277334
+    second: 3DO - Star Control II - Chenjesu Broodhome_36
+  - first:
+      213: 4014834155754281035
+    second: 3DO - Star Control II - Chenjesu Broodhome_37
+  - first:
+      213: -5654177158179464951
+    second: 3DO - Star Control II - Chenjesu Broodhome_38
+  - first:
+      213: 1544697322349131904
+    second: 3DO - Star Control II - Chenjesu Broodhome_39
+  - first:
+      213: 6522863551792587410
+    second: 3DO - Star Control II - Chenjesu Broodhome_40
+  - first:
+      213: -5452275122504450863
+    second: 3DO - Star Control II - Chenjesu Broodhome_41
+  - first:
+      213: -8417865090050209718
+    second: 3DO - Star Control II - Chenjesu Broodhome_42
+  - first:
+      213: 7886694153074155352
+    second: 3DO - Star Control II - Chenjesu Broodhome_43
+  - first:
+      213: -5250774848628870655
+    second: 3DO - Star Control II - Chenjesu Broodhome_44
+  - first:
+      213: -103131854913572365
+    second: 3DO - Star Control II - Chenjesu Broodhome_45
+  - first:
+      213: -1623694016073819686
+    second: 3DO - Star Control II - Chenjesu Broodhome_46
+  - first:
+      213: 319006931686565464
+    second: 3DO - Star Control II - Chenjesu Broodhome_47
+  - first:
+      213: -2894592430252247432
+    second: 3DO - Star Control II - Chenjesu Broodhome_48
+  - first:
+      213: 5437199844382907281
+    second: 3DO - Star Control II - Chenjesu Broodhome_49
+  - first:
+      213: -4495861561169344062
+    second: 3DO - Star Control II - Chenjesu Broodhome_50
+  - first:
+      213: -8680220345501756606
+    second: 3DO - Star Control II - Chenjesu Broodhome_51
+  - first:
+      213: 2921677797909885092
+    second: 3DO - Star Control II - Chenjesu Broodhome_52
+  - first:
+      213: -6722020541278100616
+    second: 3DO - Star Control II - Chenjesu Broodhome_53
+  - first:
+      213: 592024860874838301
+    second: 3DO - Star Control II - Chenjesu Broodhome_54
+  - first:
+      213: -2462936879558851010
+    second: 3DO - Star Control II - Chenjesu Broodhome_55
+  - first:
+      213: 6614539269978718407
+    second: 3DO - Star Control II - Chenjesu Broodhome_56
+  - first:
+      213: 5409521597424656484
+    second: 3DO - Star Control II - Chenjesu Broodhome_57
+  - first:
+      213: 7189448302083146777
+    second: 3DO - Star Control II - Chenjesu Broodhome_58
+  - first:
+      213: 8369660962804055273
+    second: 3DO - Star Control II - Chenjesu Broodhome_59
+  - first:
+      213: -2697675733933421948
+    second: 3DO - Star Control II - Chenjesu Broodhome_60
+  - first:
+      213: -5298275492599792127
+    second: 3DO - Star Control II - Chenjesu Broodhome_61
+  - first:
+      213: -318325351131118079
+    second: 3DO - Star Control II - Chenjesu Broodhome_62
+  - first:
+      213: -3114900629272939393
+    second: 3DO - Star Control II - Chenjesu Broodhome_63
+  - first:
+      213: -4368359277529672805
+    second: 3DO - Star Control II - Chenjesu Broodhome_64
+  - first:
+      213: -624174347382473679
+    second: 3DO - Star Control II - Chenjesu Broodhome_65
+  - first:
+      213: -1417288287774504612
+    second: 3DO - Star Control II - Chenjesu Broodhome_66
+  - first:
+      213: 1207640950345227736
+    second: 3DO - Star Control II - Chenjesu Broodhome_67
+  - first:
+      213: 1098033778438036704
+    second: 3DO - Star Control II - Chenjesu Broodhome_68
+  - first:
+      213: -5576069379742269308
+    second: 3DO - Star Control II - Chenjesu Broodhome_69
+  - first:
+      213: 5160317135455331507
+    second: 3DO - Star Control II - Chenjesu Broodhome_70
+  - first:
+      213: -106615698725632312
+    second: 3DO - Star Control II - Chenjesu Broodhome_71
+  - first:
+      213: -7752334725392851696
+    second: 3DO - Star Control II - Chenjesu Broodhome_72
+  - first:
+      213: -7175162216686682058
+    second: 3DO - Star Control II - Chenjesu Broodhome_73
+  - first:
+      213: 7123649641551556110
+    second: 3DO - Star Control II - Chenjesu Broodhome_74
+  - first:
+      213: 5328225457874052874
+    second: 3DO - Star Control II - Chenjesu Broodhome_75
+  - first:
+      213: 2831029248208524343
+    second: 3DO - Star Control II - Chenjesu Broodhome_76
+  - first:
+      213: 6514362656069800576
+    second: 3DO - Star Control II - Chenjesu Broodhome_77
+  - first:
+      213: 8832231899345412622
+    second: 3DO - Star Control II - Chenjesu Broodhome_78
+  - first:
+      213: -3135111106948963383
+    second: 3DO - Star Control II - Chenjesu Broodhome_79
+  - first:
+      213: -281301387275018025
+    second: 3DO - Star Control II - Chenjesu Broodhome_80
+  - first:
+      213: 4090847287091313122
+    second: 3DO - Star Control II - Chenjesu Broodhome_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152966c5fd279ca40800000000000000
+      internalID: 5388964732779008593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1266a942aafdd8570800000000000000
+      internalID: 8470672396005303841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7101be8d65e3aa5f0800000000000000
+      internalID: -744714245649002473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 75
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365684d8f9def9630800000000000000
+      internalID: 3936125868871017827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 76
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330d75eb4858f000800000000000000
+      internalID: 69902877220209460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 75
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a515b6093fe9b7b50800000000000000
+      internalID: 6592037248524046682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 74
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178ecb6e3dcfb0b00800000000000000
+      internalID: 796007746200463473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 73
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0515463a376800800000000000000
+      internalID: 605516679666274068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 74
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2d803e35acd9d10800000000000000
+      internalID: 2134084260083585702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_9
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 73
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b34ae1f4c0f82830800000000000000
+      internalID: 4046748993855308726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 74
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33dd0e7063208170800000000000000
+      internalID: 8178575820643488573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 75
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51904291c59e8d120800000000000000
+      internalID: 2438955779989178645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 76
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3a9c7bd29c28960800000000000000
+      internalID: 7602860319148975080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_13
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 75
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9e0ca79e47b4e70800000000000000
+      internalID: 9100496018167884201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 74
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7edb27f7490ce40800000000000000
+      internalID: 5674698805593630714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 74
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4711be1535b79b20800000000000000
+      internalID: 3141178504867026763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261028ae1c97e51d0800000000000000
+      internalID: -3360114398201773726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7b309068ab62110800000000000000
+      internalID: 1235880232599402460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 54
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fc0eaa33d1f840800000000000000
+      internalID: 5256214489099728400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b974645dcc4f87d0800000000000000
+      internalID: -2914025989117544015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 54
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7f4212d94059700800000000000000
+      internalID: 546348002707830757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 55
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26f5c445ef75c20800000000000000
+      internalID: 3195302098654683819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 54
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f202f7d271047e400800000000000000
+      internalID: 353321564063604783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb5314a6bd09e40800000000000000
+      internalID: 5661265981011771189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 52
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3a0985300c2a730800000000000000
+      internalID: 4008977738916471807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93a197b4c2ba080800000000000000
+      internalID: -9175191113171322427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 54
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcc4a3924249d10800000000000000
+      internalID: 2131368283143458284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 55
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d4a44ce817b7430800000000000000
+      internalID: 3781741170100161853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14ff3eca92a07c70800000000000000
+      internalID: 8966845643863618586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 55
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6193f0dfff2c18c0800000000000000
+      internalID: -4027291191007276689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 54
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f686ba1c0ee2620800000000000000
+      internalID: 2751383544779009822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 53
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e25b70214d6a10800000000000000
+      internalID: 1904249825211375962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d934bbcbc9f841990800000000000000
+      internalID: -7416144783028304995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153931d0c91035240800000000000000
+      internalID: 4779165399316140881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026b7fe0cfa7dcf0800000000000000
+      internalID: -227520012972498424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f63c3a91a64b72b0800000000000000
+      internalID: -5585793252931651848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695eb68fa7222c050800000000000000
+      internalID: 5819251580065277334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48d6d5a46e87b730800000000000000
+      internalID: 4014834155754281035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_38
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909d59de4d35881b0800000000000000
+      internalID: -5654177158179464951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088fd10d70edf6510800000000000000
+      internalID: 1544697322349131904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a0fa37ddd58a50800000000000000
+      internalID: 6522863551792587410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc3c69d9a0a554b0800000000000000
+      internalID: -5452275122504450863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_42
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484564ec4cbd2b80800000000000000
+      internalID: -8417865090050209718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_43
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9226fb8a237d60800000000000000
+      internalID: 7886694153074155352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 42
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102bbef48108127b0800000000000000
+      internalID: -5250774848628870655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 43
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f179d6df1a919ef0800000000000000
+      internalID: -103131854913572365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 42
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91ef325ea7779e0800000000000000
+      internalID: -1623694016073819686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 43
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a01c3d175d6400800000000000000
+      internalID: 319006931686565464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 5
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876b749558754d7d0800000000000000
+      internalID: -2894592430252247432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_49
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 30
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b90417370d47b40800000000000000
+      internalID: 5437199844382907281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 30
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c90b2feabd7b91c0800000000000000
+      internalID: -4495861561169344062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243df36e599a98780800000000000000
+      internalID: -8680220345501756606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_52
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 30
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0709c3a72eb8820800000000000000
+      internalID: 2921677797909885092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8736d38bee596b2a0800000000000000
+      internalID: -6722020541278100616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1115aa697b473800800000000000000
+      internalID: 592024860874838301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_55
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e368fad05f3e1ddd0800000000000000
+      internalID: -2462936879558851010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_56
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c004f3bb609bcb50800000000000000
+      internalID: 6614539269978718407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460ec436b3b721b40800000000000000
+      internalID: 5409521597424656484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91483b0b32d06c360800000000000000
+      internalID: 7189448302083146777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_59
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecb3622d42072470800000000000000
+      internalID: 8369660962804055273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a05bf763eef8ad0800000000000000
+      internalID: -2697675733933421948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_61
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e7e6dc28eb876b0800000000000000
+      internalID: -5298275492599792127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_62
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10604da97c4159bf0800000000000000
+      internalID: -318325351131118079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74bb819166a5c4d0800000000000000
+      internalID: -3114900629272939393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93df83b1687063c0800000000000000
+      internalID: -4368359277529672805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 19
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c3b52fcbc7657f0800000000000000
+      internalID: -624174347382473679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_66
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 9
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5901e6bfc7c45ce0800000000000000
+      internalID: -1417288287774504612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_67
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddda85cb0762c010800000000000000
+      internalID: 1207640950345227736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_68
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecdd2367effc3f00800000000000000
+      internalID: 1098033778438036704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_69
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48087814172dd92b0800000000000000
+      internalID: -5576069379742269308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_70
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42d2b18112d9740800000000000000
+      internalID: 5160317135455331507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_71
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68afd3699358ef0800000000000000
+      internalID: -106615698725632312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d980114ac2a6490800000000000000
+      internalID: -7752334725392851696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6300694caf3bc6c90800000000000000
+      internalID: -7175162216686682058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ee4053b994cd260800000000000000
+      internalID: 7123649641551556110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a6c3e2d8a1f940800000000000000
+      internalID: 5328225457874052874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_76
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d5301a16d94720800000000000000
+      internalID: 2831029248208524343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825c15325aa76a50800000000000000
+      internalID: 6514362656069800576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e026b560e14629a70800000000000000
+      internalID: 8832231899345412622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_79
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3ecea0f09dd74d0800000000000000
+      internalID: -3135111106948963383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_80
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e5a0f0ed981cf0800000000000000
+      internalID: -281301387275018025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3DO - Star Control II - Chenjesu Broodhome_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9b271feeb95c830800000000000000
+      internalID: 4090847287091313122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

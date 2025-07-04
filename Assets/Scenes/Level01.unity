@@ -2745,9 +2745,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1120537162}
-  acceleration: 0.25
-  maxSpeed: 1.6
-  rotationSpeed: 60
+  acceleration: 0.35
+  maxSpeed: 1.9
+  rotationSpeed: 80
   decelerationRate: 1
   trackingRadius: 100
   avoidDistance: 15
@@ -2857,7 +2857,7 @@ Transform:
   m_GameObject: {fileID: 1120537161}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.3, y: 8.12, z: 0}
+  m_LocalPosition: {x: -5.3, y: 8.8, z: 0}
   m_LocalScale: {x: 1.6153756, y: 1.7598845, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2879,13 +2879,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19cde5637a48f864c9099d9dd80ef3ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  acceleration: 0.5
-  maxSpeed: 1.7
-  rotationSpeed: 75
+  acceleration: 0.85
+  maxSpeed: 2.5
+  rotationSpeed: 150
   decelerationRate: 1
   redDotPrefab: {fileID: 5875769200174929359, guid: b32713b4662b26342b58cb5f3b1ff760, type: 3}
   dotSpawnPoint: {fileID: 1054367564}
-  spawnInterval: 0.15
+  spawnInterval: 0.1
   speedDisplay: {fileID: 1726843546}
 --- !u!212 &1120537165
 SpriteRenderer:

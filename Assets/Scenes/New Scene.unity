@@ -312,7 +312,7 @@ GameObject:
   - component: {fileID: 278298739}
   - component: {fileID: 278298738}
   - component: {fileID: 278298741}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape (3)
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -793,116 +793,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1853578016}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &377699730
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 377699733}
-  - component: {fileID: 377699732}
-  - component: {fileID: 377699731}
-  m_Layer: 0
-  m_Name: bubble_6
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!95 &377699731
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 377699730}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 273077619a5b8c045a8195e9e0854e2a, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
---- !u!212 &377699732
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 377699730}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 868722248, guid: 3e2431c5519a09a4689c4bd468955012, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 3.06, y: 3.41}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &377699733
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 377699730}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.2415, y: -12.5669, z: 0}
-  m_LocalScale: {x: 0.114936575, y: 0.114936575, z: 0.114936575}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &449101744
 GameObject:
   m_ObjectHideFlags: 0
@@ -915,7 +805,7 @@ GameObject:
   - component: {fileID: 449101748}
   - component: {fileID: 449101747}
   - component: {fileID: 449101746}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape (5)
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -1303,7 +1193,7 @@ GameObject:
   - component: {fileID: 565923309}
   - component: {fileID: 565923308}
   - component: {fileID: 565923310}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1476,7 +1366,7 @@ GameObject:
   - component: {fileID: 666498449}
   - component: {fileID: 666498448}
   - component: {fileID: 666498451}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -1650,7 +1540,7 @@ SpriteShapeRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -2058,7 +1948,7 @@ GameObject:
   - component: {fileID: 797004458}
   - component: {fileID: 797004457}
   - component: {fileID: 797004459}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2258,7 +2148,7 @@ GameObject:
   - component: {fileID: 1193581754}
   - component: {fileID: 1193581753}
   - component: {fileID: 1193581755}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2500,6 +2390,57 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36677ff35fd5e0f4fba151d34af8eb53, type: 3}
+--- !u!1 &1407454482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1407454484}
+  - component: {fileID: 1407454483}
+  m_Layer: 0
+  m_Name: BubbleSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1407454483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407454482}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ee546bd39ff508419cd2f650b19c11b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bubblePrefab: {fileID: 1110579872797215572, guid: 26a0a31f9615b4841bbf32c62ccd8bf3, type: 3}
+  spawnCount: 500
+  areaSize: {x: 49, y: 41.3}
+  planetLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  minSpacing: 0.1
+--- !u!4 &1407454484
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407454482}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.24, y: 0.43, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1487119301
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2514,11 +2455,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4410245279650045178, guid: 4e460843cfaf3c6488dbef1b79716c8f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -17.63
+      value: -15.414
       objectReference: {fileID: 0}
     - target: {fileID: 4410245279650045178, guid: 4e460843cfaf3c6488dbef1b79716c8f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -13.09
+      value: -12.396
       objectReference: {fileID: 0}
     - target: {fileID: 4410245279650045178, guid: 4e460843cfaf3c6488dbef1b79716c8f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2610,7 +2551,7 @@ GameObject:
   - component: {fileID: 1829277373}
   - component: {fileID: 1829277372}
   - component: {fileID: 1829277371}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape (4)
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -3162,7 +3103,7 @@ GameObject:
   - component: {fileID: 1856597877}
   - component: {fileID: 1856597876}
   - component: {fileID: 1856597879}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape (1)
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -3335,7 +3276,7 @@ SpriteShapeRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
+  m_DynamicOccludee: 0
   m_StaticShadowCaster: 0
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -3575,7 +3516,7 @@ GameObject:
   - component: {fileID: 1897359156}
   - component: {fileID: 1897359155}
   - component: {fileID: 1897359157}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3710,7 +3651,7 @@ GameObject:
   - component: {fileID: 1898636323}
   - component: {fileID: 1898636322}
   - component: {fileID: 1898636325}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Closed Sprite Shape (2)
   m_TagString: Planet
   m_Icon: {fileID: 0}
@@ -4498,5 +4439,5 @@ SceneRoots:
   - {fileID: 519118175}
   - {fileID: 165321141}
   - {fileID: 633215455}
-  - {fileID: 377699733}
   - {fileID: 1358926599}
+  - {fileID: 1407454484}

@@ -15,7 +15,7 @@ public class BubbleSpawner : MonoBehaviour
     {
         int spawned = 0;
         int attempts = 0;
-        while (spawned < spawnCount && attempts < 200)
+        while (spawned < spawnCount && attempts < 1000)
         {
             attempts++;
 
